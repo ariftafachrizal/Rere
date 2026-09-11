@@ -1,6 +1,6 @@
 # Rere — Play, Learn & Grow
 
-> **"Hai teman-teman, aku Rere, main dan belajar bersama Rere yuk!"**
+> **“Hai teman-teman, aku Rere, main dan belajar bersama Rere yuk!”**
 
 Rere adalah project media edukasi anak yang lahir dari kebutuhan nyata: memanfaatkan ketertarikan anak usia dini terhadap YouTube sebagai media belajar yang menyenangkan, aman, bermakna, dan relevan dengan perkembangan mereka.
 
@@ -83,6 +83,43 @@ Elemen yang perlu sering digunakan:
 - movement
 - contextual English
 
+## Brand & Character
+
+Rere adalah **Rere — Si Pecinta Pink**, tokoh utama serial edukasi.
+
+Rere memiliki kepribadian:
+
+- ceria
+- ramah
+- suka belajar
+- penuh imajinasi
+- baik hati
+- jujur
+- percaya diri
+- bertanggung jawab
+- mandiri
+
+Signature visual Rere meliputi mata cokelat besar, bulu mata lentik, rambut gelap dengan **satu kuncir tinggi seperti air mancur**, dan styling bernuansa pink. Character consistency menjadi quality gate untuk semua production asset.
+
+**Signature opening yang dikunci:**
+
+> **“Hai teman-teman, aku Rere, main dan belajar bersama Rere, yuk!”**
+
+Episode structure working version:
+
+1. Signature Intro
+2. Theme / Story Hook
+3. Short CTA
+4. Learning Story
+5. Signature Closing
+
+Lihat:
+
+- `docs/BRAND-GUIDELINE.md`
+- `docs/CHARACTER-BIBLE-RERE.md`
+- `docs/EPISODE-ARCHITECTURE.md`
+- `docs/EPISODE-001-RERE-BELAJAR-WARNA.md`
+
 ## Content Direction
 
 Rere tidak hanya mengajarkan tema akademik. Materi idealnya menggabungkan:
@@ -111,9 +148,17 @@ Contoh integrasi:
 
 Satu video tidak harus terasa seperti banyak pelajaran. Idealnya anak merasa:
 
-> **"Aku sedang bermain bersama Rere."**
+> **“Aku sedang bermain bersama Rere.”**
 
 Sementara orang tua dapat melihat bahwa di balik permainan terdapat tujuan belajar yang jelas.
+
+## Production Direction
+
+Struktur produksi yang sedang dirancang:
+
+**Idea → Research → Learning Objective → Script → Voice → Character/Animation → Edit → QA → Upload → Distribution → Analytics → Learn → Iterate**
+
+Gemini digunakan sebagai production engine berdasarkan brief dan framework Rere. Human review tetap menjadi quality gate.
 
 ## Development Roadmap
 
@@ -157,18 +202,6 @@ Mulai masuk lebih dalam ke:
 
 > Roadmap bersifat indikatif. Perlu divalidasi berdasarkan perkembangan anak, respons audience, dan evidence-based early learning.
 
-## Production Direction
-
-Struktur produksi yang sedang dirancang:
-
-**Idea → Research → Learning Objective → Script → Voice → Character/Animation → Edit → QA → Upload → Distribution → Analytics → Learn → Iterate**
-
-Jangan memasukkan seluruh pipeline ini ke Todoist sebelum strategi dan framework cukup matang.
-
-## Current Next Step
-
-Setelah Discover/Cognitive disepakati sebagai Core, langkah brainstorming berikutnya adalah membedah **Language & English**, lalu domain lain satu per satu sebelum membuat content calendar dan Todoist execution system.
-
 ## Important Principle
 
 Rere bukan dibuat terutama untuk mengejar views. Urutan prioritas yang diinginkan:
@@ -181,8 +214,29 @@ Revenue adalah tujuan sekunder yang diharapkan dapat tumbuh dari value dan trust
 
 ## Project Documentation
 
+### Strategy & Research
+
 - `docs/PROJECT-BRIEF.md` — ringkasan strategi dan konteks project.
 - `docs/DECISIONS.md` — keputusan dan prinsip yang sudah disepakati.
 - `docs/RESEARCH-REFERENCES.md` — referensi awal dan catatan kehati-hatian terhadap sumber.
 
-This repository is the working source of truth for the Rere project strategy. Update it as decisions are made.
+### Brand & Character
+
+- `docs/BRAND-GUIDELINE.md` — brand identity, tone, signature intro/closing, visual rules, QA.
+- `docs/CHARACTER-BIBLE-RERE.md` — canonical character identity dan consistency rules.
+
+### Learning & Production
+
+- `docs/LEARNING-FRAMEWORK-SPEAK.md`
+- `docs/LEARNING-FRAMEWORK-FEEL.md`
+- `docs/PRODUCTION-WORKFLOW-GEMINI.md`
+- `docs/EPISODE-ARCHITECTURE.md`
+- `docs/EPISODE-001-RERE-BELAJAR-WARNA.md`
+
+## Repository Rule
+
+This repository is the working source of truth for the Rere project strategy, brand, character, learning framework, and production system.
+
+Do not introduce new production conventions that conflict with the existing documentation without first updating the relevant decision/working document.
+
+Update the repository as new decisions are made.
