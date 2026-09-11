@@ -51,15 +51,11 @@ Learning loop:
 
 **DISCOVER / Cognitive** menjadi salah satu Core Pillar Rere.
 
-## D-008 — Cognitive Core Foundations
+## D-008 — Cognitive Foundations — Superseded by D-020
 
-**Status:** Approved
+**Status:** Superseded
 
-Tiga fondasi Cognitive yang menjadi Core:
-
-1. Recognition & Classification
-2. Early Numeracy
-3. Early Literacy
+Versi awal menetapkan Recognition & Classification, Early Numeracy, dan Early Literacy sebagai Cognitive Core Foundations. Setelah broader architecture review, keputusan ini direvisi: **Early Numeracy dan Early Literacy bukan Core Areas yang berdiri sendiri, melainkan cross-domain foundations/capabilities.** DISCOVER tetap menjadi rumah utama untuk eksplorasi cognitive/mathematical/literacy foundations, tetapi literacy dan numeracy dapat berkembang secara natural di seluruh pillar.
 
 ## D-009 — Cognitive Supporting Skills
 
@@ -70,6 +66,8 @@ Supporting cognitive skills:
 - Problem Solving
 - Curiosity & Exploration
 - Memory & Attention
+
+Dalam arsitektur final, kemampuan ini diperlakukan sebagai **cross-domain capabilities**, bukan pillar tersendiri.
 
 ## D-010 — Content Integration
 
@@ -237,16 +235,111 @@ Target engagement ladder:
 
 CREATE framework lengkap didokumentasikan di `docs/LEARNING-FRAMEWORK-CREATE.md`.
 
-## D-019 — Current Next Step
+## D-019 — Five-Pillar Stress Test
+
+**Status:** Approved
+
+Kelima domain kerja diuji menggunakan berbagai contoh topik anak usia 2–4 tahun, termasuk warna, angka, huruf, binatang, life skills, emosi, konflik sosial, safety, keluarga, menggambar, pretend play, storytelling, music/movement, blocks, puzzle, movement, dan tanaman.
+
+Hasilnya:
+
+- Tidak ditemukan learning area fundamental yang membutuhkan pillar keenam.
+- Overlap antar-pillar dinilai sehat selama primary learning intention jelas.
+- Physical development lebih tepat menjadi cross-domain capability daripada Core Pillar.
+- Literacy, numeracy, problem solving, self-regulation, imagination, motor development, dan kemampuan sejenis tidak perlu menjadi pillar tambahan.
+
+Stress test menghasilkan prinsip fundamental:
+
+> **Activity does not determine the pillar. Learning intention determines the pillar.**
+
+## D-020 — Final Five-Pillar Learning Architecture
+
+**Status:** Approved — 2026-09-11
+
+Rere menggunakan lima Core Pillars yang saling terhubung:
+
+1. **DISCOVER — Understand the World**
+2. **SPEAK — Communicate with the World**
+3. **FEEL — Understand Myself & Others**
+4. **LIVE — Care for Myself, Others & My World**
+5. **CREATE — Imagine, Express & Make**
+
+Kelima pillar bukan lima mata pelajaran yang harus diajarkan secara terpisah. Mereka adalah **learning lenses** yang dapat digunakan bersama dalam pengalaman bermain.
+
+### Primary Learning Intention Rule
+
+Setiap episode harus memiliki:
+
+- **1 Primary Pillar**
+- **1 Primary Learning Intention**
+- Optional Supporting Pillars
+- Cross-Domain Capabilities yang relevan
+
+Satu aktivitas boleh muncul di beberapa pillar. Yang menentukan pillar utama adalah tujuan belajar utamanya.
+
+### Cross-Domain Capabilities
+
+Cross-domain capabilities adalah layer arsitektur, bukan Core Pillar keenam.
+
+Kelompok kerja:
+
+**Thinking**
+- Curiosity
+- Attention
+- Memory
+- Problem Solving
+- Exploration
+
+**Doing**
+- Fine Motor
+- Gross Motor
+- Coordination
+- Participation
+
+**Self**
+- Agency & Choice
+- Persistence
+- Self-Regulation
+
+**Social**
+- Communication
+- Cooperation
+- Social Interaction
+- Relationship Building
+
+**Creative**
+- Imagination
+- Expression
+- Experimentation
+
+**PLAY** menjadi mekanisme utama yang menghubungkan semuanya.
+
+### Literacy & Numeracy Decision
+
+**Early Literacy dan Early Numeracy tidak lagi diperlakukan sebagai Core Areas yang berdiri sendiri.** Keduanya menjadi cross-domain foundations/capabilities.
+
+DISCOVER tetap menjadi rumah utama untuk cognitive exploration, mathematical thinking, dan literacy foundations, tetapi literacy dan numeracy boleh dan sebaiknya muncul secara natural di seluruh pillar.
+
+Contoh:
+
+- SPEAK → vocabulary, listening, narrative language, number words
+- FEEL → menggunakan bahasa untuk mengekspresikan pengalaman; turn-taking dan sequencing sederhana
+- LIVE → membaca/mengenali tanda dan sequence dalam rutinitas; counting dalam aktivitas nyata
+- CREATE → membuat cerita, simbol, pola, bentuk, dan konstruksi
+- DISCOVER → classification, quantity, patterns, spatial relationships, symbols, sounds, books
+
+### Core Architecture Principle
+
+> **Clear primary learning + rich natural integration.**
+
+Rere tidak mengejar jumlah domain dalam satu video. Integrasi hanya digunakan jika memperkuat pengalaman bermain dan tujuan utama.
+
+Arsitektur lengkap didokumentasikan di `docs/LEARNING-ARCHITECTURE.md`.
+
+## D-021 — Current Next Step
 
 **Status:** Next
 
-Lima domain kerja sekarang sudah dibedah:
+Dengan arsitektur lima pillar yang sudah disepakati, langkah berikutnya adalah menyusun **Curriculum Architecture 6 Bulan** untuk usia 2–4 tahun, sebelum masuk ke execution schedule dan produksi massal.
 
-1. DISCOVER — Understand the World
-2. SPEAK — Communicate with the World
-3. FEEL — Understand Myself & Others
-4. LIVE — Care for Myself, Others & My World
-5. CREATE — Imagine, Express & Make
-
-Langkah berikutnya adalah **broader five-pillar review**: membandingkan kelima domain, mencari overlap/gap, menentukan mana yang benar-benar Core, menetapkan arsitektur final, lalu baru masuk ke curriculum 6 bulan dan content system.
+Curriculum harus diturunkan dari lima Core Pillars + Cross-Domain Capabilities, bukan dari daftar topik acak.
