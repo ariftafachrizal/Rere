@@ -4,7 +4,7 @@
 
 ## Purpose
 
-Dokumen ini menetapkan arsitektur pembelajaran utama Rere untuk fase awal usia **2–4 tahun**.
+Dokumen ini menetapkan arsitektur pembelajaran utama Rere untuk fase awal usia **2–4 tahun**, dengan desain yang dapat berkembang mengikuti anak menuju usia sekitar 5 tahun.
 
 Rere menggunakan **lima Core Pillars yang saling terhubung**, bukan lima mata pelajaran yang harus diajarkan secara terpisah.
 
@@ -28,6 +28,12 @@ Contoh area:
 - memory and attention
 
 **Catatan penting:** Early Literacy dan Early Numeracy **bukan Core Area yang berdiri sendiri**. Keduanya merupakan kemampuan/fondasi yang dapat berkembang melalui DISCOVER maupun pillar lainnya.
+
+Detailed framework: `docs/LEARNING-FRAMEWORK-DISCOVER.md`
+
+DISCOVER developmental progression:
+
+**NOTICE → CONNECT → WONDER → INVESTIGATE → REASON → APPLY**
 
 ### 2. SPEAK — Communicate with the World
 
@@ -185,28 +191,29 @@ Rere tidak membuat pillar terpisah untuk:
 
 Semua merupakan foundation, capability, atau developmental process yang dapat tumbuh lintas pengalaman.
 
-## Architecture Model
+## 3-Year Curriculum Architecture
 
-```text
-                         RERE
-                          │
-                PLAY-BASED LEARNING
-                          │
-             PLAY → EXPERIENCE →
-             IMITATE → LEARN
-                          │
-        ┌───────── FIVE CORE PILLARS ─────────┐
-        │                                      │
-        │ DISCOVER   SPEAK   FEEL   LIVE   CREATE
-        │                                      │
-        └──────────────────────────────────────┘
-                          │
-                 CROSS-DOMAIN CAPABILITIES
-                          │
-       Thinking · Doing · Self · Social · Creative
-```
+Rere menggunakan **3-Year Learning Roadmap** sebagai peta perkembangan, bukan syllabus yang dikunci secara kaku.
 
-Kelima pillar bersifat **parallel dan interconnected**, bukan tahapan linear.
+Struktur kerja:
+
+**3 Tahun = MAP → 1 Tahun = JOURNEY → Quarter = CHAPTER → Episode = EXPERIENCE**
+
+Roadmap 3 tahun menetapkan arah perkembangan besar. Detail tema, urutan, tingkat kedalaman, dan episode dapat berubah berdasarkan perkembangan anak, hasil audience, riset, dan hasil evaluasi kualitas.
+
+Prinsipnya:
+
+> **Stable architecture, flexible curriculum.**
+
+Usia digunakan sebagai **developmental reference**, bukan cutoff kemampuan.
+
+Setiap pillar akan memiliki progression yang dapat dipetakan dari pengalaman awal sekitar usia 2 tahun menuju pengalaman yang semakin kompleks sekitar usia 5 tahun.
+
+Untuk DISCOVER, progression yang telah ditetapkan adalah:
+
+**NOTICE → CONNECT → WONDER → INVESTIGATE → REASON → APPLY**
+
+Roadmap lengkap DISCOVER didokumentasikan di `docs/LEARNING-FRAMEWORK-DISCOVER.md`.
 
 ## Episode Architecture
 
