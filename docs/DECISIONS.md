@@ -163,8 +163,40 @@ Workflow awal:
 
 **Rere Framework → Episode Brief → Gemini Production → Human/Quality Review → Final Asset → Publish → Learn from Audience**
 
-## D-017 — Current Next Step
+## D-017 — LIVE / Values, Life Skills & Safety Framework Direction
+
+**Status:** Working
+
+LIVE dikembangkan sebagai calon Core Pillar untuk membantu anak usia 2–4 tahun belajar hidup bersama orang lain, menjaga dirinya, melakukan hal-hal sederhana secara semakin mandiri, dan memahami batas keselamatan.
+
+Working philosophy:
+
+> **Care for myself, others, and my world.**
+
+Tiga Core Areas sementara:
+
+1. Values & Respect
+2. Daily Life Skills & Independence
+3. Safety & Body/Environmental Awareness
+
+Supporting/cross-cutting areas:
+
+- Responsibility & Contribution
+- Healthy Habits & Well-being
+- Repairing/restoring after mistakes
+- Simple decision-making and agency
+- Community participation
+
+Key distinction:
+
+**Values ≠ Rules.**
+
+Rules memberikan batas keselamatan/perilaku; values memberi orientasi bagaimana hidup bersama. Rere sebaiknya mengajarkan positive replacement behavior, bukan hanya larangan.
+
+LIVE juga harus menghindari obedience training, fear-based safety, shame, dan pesan bahwa anak tidak boleh meminta bantuan atau mengatakan "no".
+
+## D-018 — Current Next Step
 
 **Status:** Next
 
-Setelah FEEL, lanjutkan brainstorming dengan domain **LIVE / Values, Life Skills & Safety**, lalu **CREATE / Creativity, Imagination & Expression** sebelum menetapkan seluruh Core Pillars dan membuat curriculum 6 bulan serta execution schedule.
+Setelah LIVE, lanjutkan brainstorming dengan domain **CREATE / Creativity, Imagination & Expression** sebelum menetapkan seluruh Core Pillars dan membuat curriculum 6 bulan serta execution schedule.
