@@ -336,10 +336,89 @@ Rere tidak mengejar jumlah domain dalam satu video. Integrasi hanya digunakan ji
 
 Arsitektur lengkap didokumentasikan di `docs/LEARNING-ARCHITECTURE.md`.
 
-## D-021 — Current Next Step
+## D-021 — Three-Year Curriculum Roadmap
+
+**Status:** Approved — 2026-09-11
+
+Rere tidak menggunakan curriculum hanya untuk 6 bulan. Rere akan membangun **3-Year Learning Roadmap** sebagai peta perkembangan utama, dengan ruang untuk revisi dan brainstorming sepanjang perjalanan.
+
+Struktur:
+
+**3 Tahun = MAP → 1 Tahun = JOURNEY → Quarter = CHAPTER → Episode = EXPERIENCE**
+
+Roadmap 3 tahun menetapkan arah perkembangan besar, bukan daftar episode yang dikunci sejak awal. Detail tema, urutan, kedalaman, dan prioritas dapat berubah berdasarkan:
+
+- perkembangan anak;
+- hasil observasi terhadap audience;
+- hasil evaluasi konten;
+- insight baru dari riset perkembangan anak;
+- kebutuhan strategis Rere;
+- brainstorming dan keputusan baru yang disepakati.
+
+Prinsip governance:
+
+> **Stable architecture, flexible curriculum.**
+
+Usia digunakan sebagai **developmental reference**, bukan cutoff kemampuan.
+
+## D-022 — DISCOVER Three-Year Developmental Progression
+
+**Status:** Approved Working Framework — 2026-09-11
+
+DISCOVER memiliki developmental progression:
+
+**NOTICE → CONNECT → WONDER → INVESTIGATE → REASON → APPLY**
+
+Progression ini adalah arah perkembangan konseptual, bukan tahapan umur yang kaku.
+
+Reference phases:
+
+| Phase | Reference age | Dominant progression |
+|---|---|---|
+| 1 | ±2–2.5 | NOTICE & EXPLORE |
+| 2 | ±2.5–3 | RECOGNIZE & CONNECT |
+| 3 | ±3–3.5 | CONNECT & WONDER |
+| 4 | ±3.5–4 | WONDER & INVESTIGATE |
+| 5 | ±4–4.5 | INVESTIGATE & REASON |
+| 6 | ±4.5–5 | REASON & APPLY |
+
+DISCOVER learning strands mencakup:
+
+- Recognition & Classification
+- Patterns & Relationships
+- Early Mathematical Thinking
+- Early Literacy Foundations
+- Cause, Effect & Problem Solving
+- Natural & Physical World Exploration
+- Attention, Memory & Curiosity
+
+Early literacy dan early numeracy tetap cross-domain foundations, bukan pillar tambahan.
+
+DISCOVER framework lengkap didokumentasikan di `docs/LEARNING-FRAMEWORK-DISCOVER.md`.
+
+## D-023 — Curriculum Development Method
+
+**Status:** Approved Working Method — 2026-09-11
+
+Curriculum Rere akan dikembangkan **bertahap**, tetapi selalu diturunkan dari roadmap 3 tahun.
+
+Urutan kerja:
+
+1. Tetapkan 3-Year Learning Roadmap.
+2. Bangun developmental progression setiap Core Pillar.
+3. Turunkan roadmap tahunan.
+4. Pecah menjadi chapters/quarters yang cukup fleksibel.
+5. Tentukan theme clusters dan learning experiences.
+6. Turunkan menjadi episode briefs.
+7. Produksi menggunakan Gemini Production Layer.
+8. Human/Quality Review.
+9. Publish dan pelajari respons anak/audience.
+10. Gunakan hasil tersebut untuk melakukan curriculum refinement.
+
+Dengan demikian, kita **tidak membuat seluruh 3 tahun episode sekaligus**. Kita membuat peta jangka panjang lalu mengembangkan pengalaman secara bertahap dan melakukan revisi ketika diperlukan.
+
+## D-024 — Current Curriculum Next Step
 
 **Status:** Next
 
-Dengan arsitektur lima pillar yang sudah disepakati, langkah berikutnya adalah menyusun **Curriculum Architecture 6 Bulan** untuk usia 2–4 tahun, sebelum masuk ke execution schedule dan produksi massal.
-
-Curriculum harus diturunkan dari lima Core Pillars + Cross-Domain Capabilities, bukan dari daftar topik acak.
+Setelah DISCOVER ditetapkan, langkah berikutnya adalah menyusun developmental progression untuk **SPEAK — Communicate with the World** dengan tingkat kedalaman yang sebanding dengan DISCOVER. Setelah lima pillar memiliki progression, baru kita menyusun Year 1 → Year 2 → Year 3 secara terintegrasi.
