@@ -117,8 +117,54 @@ Jangan memasukkan seluruh rencana ke Todoist sebelum brainstorming strategy, cur
 
 Todoist menjadi execution layer, bukan tempat berpikir strategi.
 
-## D-015 — Current Next Step
+## D-015 — FEEL / Social-Emotional Framework Direction
+
+**Status:** Working
+
+FEEL dikembangkan sebagai calon Core Pillar untuk membantu anak usia 2–4 tahun mengenali emosi, membangun fondasi regulasi diri melalui co-regulation, dan mempraktikkan keterampilan sosial dasar.
+
+Prinsip utama:
+
+- Emotion is valid; behavior has boundaries
+- Co-regulation before self-regulation
+- Recognition before control
+- Practice through play and story
+- Model, don't moralize
+- Repetition with variation
+
+Working progression:
+
+**Notice → Name → Respond with Support → Practice Socially → Begin to Choose**
+
+Candidate core areas:
+
+1. Emotional Recognition & Naming
+2. Self-Regulation & Coping
+3. Social Interaction
+4. Empathy & Perspective-Taking Beginnings
+
+Supporting skills mencakup self-awareness, confidence, frustration tolerance, flexibility, conflict resolution basics, simple choices, asking for help, dan repairing relationships.
+
+## D-016 — Gemini as Content Production Tool
+
+**Status:** Working
+
+Gemini akan digunakan sebagai salah satu **production engine** Rere, terutama untuk membantu mengubah framework/episode brief yang sudah disepakati menjadi materi produksi seperti ide episode, script, scene breakdown, dialog, prompt visual, dan variasi draft.
+
+Pembagian peran awal:
+
+- **Rere Strategy Layer:** framework pendidikan, prinsip brand, curriculum logic, learning objectives, quality bar, dan keputusan strategis.
+- **Gemini Production Layer:** membantu eksekusi dan eksplorasi materi produksi berdasarkan brief yang sudah disetujui.
+- **Human Review:** memastikan akurasi, kesesuaian perkembangan anak, konsistensi karakter/brand, keamanan, dan kualitas akhir sebelum publish.
+
+Prinsip penting: Gemini tidak menjadi sumber kebenaran untuk keputusan pendidikan. Production output harus selalu diturunkan dari Rere's approved/working framework.
+
+Workflow awal:
+
+**Rere Framework → Episode Brief → Gemini Production → Human/Quality Review → Final Asset → Publish → Learn from Audience**
+
+## D-017 — Current Next Step
 
 **Status:** Next
 
-Lanjutkan brainstorming dengan domain **FEEL / Social-Emotional**, lalu LIVE dan CREATE sebelum membuat curriculum 6 bulan dan execution schedule.
+Setelah FEEL, lanjutkan brainstorming dengan domain **LIVE / Values, Life Skills & Safety**, lalu **CREATE / Creativity, Imagination & Expression** sebelum menetapkan seluruh Core Pillars dan membuat curriculum 6 bulan serta execution schedule.
