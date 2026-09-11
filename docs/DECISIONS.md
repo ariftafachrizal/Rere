@@ -195,8 +195,58 @@ Rules memberikan batas keselamatan/perilaku; values memberi orientasi bagaimana 
 
 LIVE juga harus menghindari obedience training, fear-based safety, shame, dan pesan bahwa anak tidak boleh meminta bantuan atau mengatakan "no".
 
-## D-018 — Current Next Step
+## D-018 — CREATE / Creativity, Imagination & Expression Framework Direction
+
+**Status:** Working Decision — Approved as Core Candidate
+
+CREATE disepakati layak menjadi **Core Pillar candidate** karena kreativitas, imajinasi, ekspresi, bermain peran, bercerita, musik, gerak, dan membuat sesuatu merupakan bagian penting dari pengalaman belajar anak usia dini serta menyediakan jalur partisipasi yang kuat.
+
+Working identity:
+
+> **Imagine, Express & Make.**
+
+Working creative loop:
+
+**IMAGINE → CREATE → SHARE**
+
+Four Core Areas:
+
+1. Creative Expression
+2. Pretend Play & Imagination
+3. Storytelling & Narrative Creation
+4. Music, Rhythm & Movement
+
+Supporting/cross-cutting area:
+
+- Open-Ended Making & Exploration
+
+Keputusan penting:
+
+- **Storytelling menjadi CREATE ketika anak menciptakan atau mengubah isi cerita.** SPEAK tetap menjadi primary pillar ketika fokusnya adalah memahami atau menggunakan bahasa.
+- **Music & Movement masuk CREATE** ketika anak meniru, memvariasikan, atau menciptakan pola suara/gerakan sebagai bentuk ekspresi.
+- CREATE menggunakan prinsip **Process over Product**, **Participation over Perfection**, **Exploration over Correctness**, dan **Agency over Imitation**.
+- Contoh Rere adalah invitation, bukan template yang wajib disalin.
+
+Working progression:
+
+**Explore → Imitate → Vary → Create → Share & Extend**
+
+Target engagement ladder:
+
+**Watch → Copy → Choose → Create → Share**
+
+CREATE framework lengkap didokumentasikan di `docs/LEARNING-FRAMEWORK-CREATE.md`.
+
+## D-019 — Current Next Step
 
 **Status:** Next
 
-Setelah LIVE, lanjutkan brainstorming dengan domain **CREATE / Creativity, Imagination & Expression** sebelum menetapkan seluruh Core Pillars dan membuat curriculum 6 bulan serta execution schedule.
+Lima domain kerja sekarang sudah dibedah:
+
+1. DISCOVER — Understand the World
+2. SPEAK — Communicate with the World
+3. FEEL — Understand Myself & Others
+4. LIVE — Care for Myself, Others & My World
+5. CREATE — Imagine, Express & Make
+
+Langkah berikutnya adalah **broader five-pillar review**: membandingkan kelima domain, mencari overlap/gap, menentukan mana yang benar-benar Core, menetapkan arsitektur final, lalu baru masuk ke curriculum 6 bulan dan content system.
