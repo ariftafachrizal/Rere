@@ -8,6 +8,34 @@ FEEL adalah calon Core Pillar Rere untuk membantu anak usia 2–4 tahun mengenal
 
 Rere tidak bertujuan membuat anak selalu tenang, selalu patuh, atau tidak pernah marah. Tujuannya adalah membantu anak mengenali pengalaman emosional dan belajar menggunakan cara yang lebih aman dan konstruktif untuk meresponsnya.
 
+## Core vs Supporting — Working Classification
+
+Untuk fase awal 2–4 tahun, FEEL menggunakan **4 Core Areas**:
+
+1. **Emotional Recognition & Naming**
+2. **Self-Regulation & Coping**
+3. **Social Interaction**
+4. **Empathy & Perspective-Taking Beginnings**
+
+Keempatnya dipilih karena membentuk alur perkembangan yang saling terhubung: anak mulai mengenali pengalaman emosional, mendapatkan dukungan untuk mengatur respons, belajar berinteraksi dengan orang lain, lalu mulai memperhatikan perasaan dan kebutuhan orang lain.
+
+Supporting skills tidak menjadi pillar tersendiri pada fase ini, tetapi muncul lintas episode:
+
+- Self-awareness
+- Confidence & positive self-concept
+- Frustration tolerance
+- Flexibility
+- Conflict resolution basics
+- Simple choices / agency
+- Asking for help
+- Repairing relationships
+
+### Catatan penting
+
+**Self-awareness tetap penting, tetapi untuk fase awal diposisikan sebagai kemampuan lintas-domain**, bukan Core Area terpisah. Ia muncul secara alami ketika anak mengenali perasaan, preferensi, kebutuhan, kemampuan, dan batas dirinya.
+
+Demikian pula **conflict resolution** dan **repairing relationships** lebih tepat diperlakukan sebagai aplikasi dari Social Interaction + Self-Regulation + Empathy, bukan curriculum pillar sendiri.
+
 ## Prinsip Utama
 
 ### 1. Emotion is valid; behavior has boundaries
@@ -25,6 +53,8 @@ Pada usia 2–4 tahun, kemampuan regulasi diri masih berkembang. Rere sebaiknya 
 Pola sederhana:
 
 **Notice → Name → Support → Choose → Practice**
+
+Co-regulation penting karena anak kecil masih membutuhkan hubungan yang responsif dan dukungan orang dewasa untuk mengembangkan kapasitas regulasi secara bertahap.
 
 ### 3. Recognition before control
 
@@ -48,9 +78,7 @@ Rere sebaiknya menunjukkan contoh perilaku sosial yang diinginkan daripada membe
 
 Keterampilan emosional membutuhkan pengulangan dalam banyak situasi. Konsep yang sama dapat muncul dalam cerita berbeda: menunggu giliran, kehilangan mainan, kalah bermain, ingin sesuatu, atau bertemu teman baru.
 
-## Candidate Core Areas
-
-### A. Emotional Recognition & Naming
+## Core Area A — Emotional Recognition & Naming
 
 Anak mengenali emosi dasar melalui wajah, suara, tubuh, situasi, dan cerita.
 
@@ -64,7 +92,7 @@ Contoh:
 
 Target awal bukan menghafal sebanyak mungkin nama emosi, tetapi memahami hubungan sederhana antara situasi, perasaan, dan respons.
 
-### B. Self-Regulation & Coping
+## Core Area B — Self-Regulation & Coping
 
 Anak diperkenalkan pada cara sederhana untuk menghadapi emosi kuat dengan dukungan orang dewasa.
 
@@ -76,9 +104,9 @@ Contoh strategi:
 - menggunakan kata sederhana seperti "help" / "tolong"
 - memilih aktivitas yang menenangkan
 
-Strategi harus dipresentasikan sebagai pilihan, bukan hukuman.
+Strategi harus dipresentasikan sebagai pilihan, bukan hukuman. Rere tidak boleh memberi kesan bahwa satu teknik seperti "tarik napas" selalu menyelesaikan semua emosi.
 
-### C. Social Interaction
+## Core Area C — Social Interaction
 
 Anak belajar keterampilan sosial dasar melalui permainan bersama.
 
@@ -92,7 +120,7 @@ Contoh:
 - mengajak bermain
 - menerima bahwa teman dapat memilih berbeda
 
-### D. Empathy & Perspective-Taking Beginnings
+## Core Area D — Empathy & Perspective-Taking Beginnings
 
 Anak mulai memperhatikan perasaan dan kebutuhan orang lain.
 
@@ -102,22 +130,20 @@ Contoh:
 - menawarkan bantuan
 - memahami bahwa teman mungkin menginginkan hal berbeda
 
-Untuk usia 2–4, jangan menetapkan ekspektasi bahwa anak harus memahami perspektif kompleks. Fokus pada fondasi: noticing, caring, helping.
+Untuk usia 2–4, jangan menetapkan ekspektasi bahwa anak harus memahami perspektif kompleks. Fokus pada fondasi: **noticing → caring → helping**.
 
 ## Supporting Skills
 
 Supporting FEEL skills yang dapat muncul lintas episode:
 
-- Self-awareness
-- Confidence & positive self-concept
-- Frustration tolerance
-- Flexibility ketika rencana berubah
-- Conflict resolution basics
-- Making simple choices
-- Asking for help
-- Repairing relationships after conflict
-
-Skill ini penting, tetapi untuk fase awal tidak semuanya perlu menjadi curriculum pillar terpisah.
+- **Self-awareness** — mengenali preferensi, kebutuhan, kemampuan, dan batas diri.
+- **Confidence & positive self-concept** — "I can try", menunjukkan usaha, menerima bantuan.
+- **Frustration tolerance** — tetap mencoba dengan dukungan ketika sesuatu sulit.
+- **Flexibility** — menyesuaikan diri ketika rencana atau aturan sederhana berubah.
+- **Conflict resolution basics** — meminta, menunggu, mencari solusi sederhana.
+- **Simple choices / agency** — memilih di antara beberapa respons yang aman.
+- **Asking for help** — menggunakan kata atau gesture untuk mencari bantuan.
+- **Repairing relationships** — mengembalikan benda, membantu, memperbaiki tindakan, dan meminta maaf ketika relevan.
 
 ## Working Progression
 
@@ -222,14 +248,20 @@ Jika memungkinkan, episode dapat memberikan satu kalimat singkat untuk caregiver
 
 ## Evidence-Informed Direction
 
-Framework ini mengikuti prinsip umum perkembangan anak usia dini: social-emotional competence berkembang melalui hubungan responsif, interaksi sosial, bermain, bahasa, modeling, dan dukungan regulasi dari orang dewasa. Untuk Rere, prinsip tersebut diterjemahkan menjadi pengalaman yang sederhana, berulang, konkret, dan sesuai usia.
+Arah FEEL didukung oleh prinsip perkembangan anak usia dini dari NAEYC dan Harvard Center on the Developing Child: social-emotional competence berkembang melalui hubungan responsif, interaksi sosial, bermain, bahasa, modeling, dan dukungan regulasi dari orang dewasa. NAEYC secara khusus menekankan kesempatan bagi anak untuk mengenali perasaan, mengembangkan regulasi emosi/perilaku/perhatian, mengambil giliran, bermain kooperatif, menggunakan bahasa untuk kebutuhan, dan memecahkan konflik. Harvard menekankan pentingnya responsive relationships, serve-and-return, serta perkembangan regulasi emosi dan executive function melalui hubungan dan latihan.
 
-Referensi kerja yang telah digunakan dalam riset Rere:
+Referensi kerja:
 
-- OECD — Early Learning and Child Well-being: https://www.oecd.org/en/publications/early-learning-and-child-well-being_3990407f-en/full-report/component-9.html
-- Harvard Center on the Developing Child — Serve and Return: https://developingchild.harvard.edu/key-concept/serve-and-return/
-- NAEYC — Developmentally Appropriate Practice: https://www.naeyc.org/resources/position-statements/dap/contents
+- NAEYC — Early Learning Program Standards / Promoting Self-Regulation: https://www.naeyc.org/sites/default/files/globally-shared/downloads/PDFs/accreditation/early-learning/2022elpstandardsandassessmentitems-compressed.pdf
+- NAEYC — How Are You Feeling? Strategies for Helping Children Understand and Manage Emotions: https://www.naeyc.org/resources/pubs/yc/spring2021/helping-children-understand-emotions
+- NAEYC — Rocking and Rolling: Sharing Our Calm / Coregulation: https://www.naeyc.org/resources/pubs/yc/summer2024/rocking-and-rolling
+- NAEYC — Social–Emotional Development framework: https://www.naeyc.org/sites/default/files/globally-shared/downloads/PDFs/our-work/global/sels_3-6.pdf
 - NAEYC — Principles of Child Development and Learning: https://www.naeyc.org/node/3796
+- NAEYC — Play: https://www.naeyc.org/resources/topics/play
+- Harvard Center on the Developing Child — Serve and Return: https://developingchild.harvard.edu/key-concept/serve-and-return/
+- Harvard Center on the Developing Child — Children's Emotional Development: https://developingchild.harvard.edu/resources/working-paper/childrens-emotional-development-is-built-into-the-architecture-of-their-brains/
+- Harvard Center on the Developing Child — Young Children Develop in an Environment of Relationships: https://developingchild.harvard.edu/resources/working-paper/wp1/
+- Harvard Center on the Developing Child — Brain-Building Through Play: https://developingchild.harvard.edu/resources/handouts-tools/brainbuildingthroughplay/
 
 ## Open Decisions
 
@@ -244,4 +276,4 @@ Belum final:
 
 ---
 
-**Current status:** FEEL / Social-Emotional is a proposed Core direction; final Core classification remains pending completion of the broader learning framework.
+**Current status:** FEEL / Social-Emotional is a proposed Core direction; the working classification now uses four Core Areas and several cross-cutting Supporting Skills. Final Core Pillar classification remains pending completion of the broader learning framework.
