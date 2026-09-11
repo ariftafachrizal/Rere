@@ -83,7 +83,25 @@ Satu episode boleh mengandung beberapa learning outcomes, tetapi harus memiliki 
 
 English akan diperkenalkan secara natural dan kontekstual, bukan hanya melalui hafalan vocabulary atau drilling.
 
-## D-012 — Value Before Revenue
+## D-012 — SPEAK / Language Framework Direction
+
+**Status:** Working
+
+SPEAK dikembangkan sebagai calon Core Pillar. Prinsip yang sedang disepakati:
+
+- Meaning before memorization
+- Context before complexity
+- Interaction over passive exposure
+- Home language is an asset
+- Repetition with variation
+
+Working progression:
+
+**Hear & Recognize → Repeat & Imitate → Respond → Use**
+
+Untuk audience Indonesia, arah awal adalah **Indonesian context + English exposure**. Rasio Bahasa Indonesia : English belum final.
+
+## D-013 — Value Before Revenue
 
 **Status:** Approved
 
@@ -91,7 +109,7 @@ Revenue adalah tujuan sekunder. Prinsip urutan:
 
 **Value → Trust → Audience → Scale → Revenue**
 
-## D-013 — Todoist Timing
+## D-014 — Todoist Timing
 
 **Status:** Approved
 
@@ -99,8 +117,8 @@ Jangan memasukkan seluruh rencana ke Todoist sebelum brainstorming strategy, cur
 
 Todoist menjadi execution layer, bukan tempat berpikir strategi.
 
-## D-014 — Current Next Step
+## D-015 — Current Next Step
 
 **Status:** Next
 
-Lanjutkan brainstorming dengan domain **SPEAK / Language & English**, lalu FEEL, LIVE, dan CREATE sebelum membuat curriculum 6 bulan dan execution schedule.
+Lanjutkan brainstorming dengan domain **FEEL / Social-Emotional**, lalu LIVE dan CREATE sebelum membuat curriculum 6 bulan dan execution schedule.
