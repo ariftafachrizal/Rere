@@ -90,7 +90,7 @@ Production consistency layers:
 
 ### Reference Hierarchy
 
-**Identity → Face → Anatomy → Outfit → Gesture → World → Scene**
+**Identity → Face → Anatomy → Outfit → Gesture → World → Props → Scene**
 
 Scene prompt tidak boleh merusak identity yang telah dikunci oleh reference dan bible di atasnya.
 
@@ -100,6 +100,7 @@ Scene prompt tidak boleh merusak identity yang telah dikunci oleh reference dan 
 - `docs/OUTFIT-BIBLE-RERE.md`
 - `docs/GESTURE-BIBLE-RERE.md`
 - `docs/WORLD-ENVIRONMENT-BIBLE-RERE.md`
+- `docs/PROP-BIBLE-RERE.md`
 
 ## World & Environment System
 
@@ -117,8 +118,6 @@ World DNA:
 - friendly child-scale
 - imaginative
 - educational without looking institutional
-
-Pink adalah signature accent, bukan warna seluruh dunia. Supporting colors mencakup cream, warm white, light wood, pastel blue, pastel green, pastel yellow, soft lavender, dan neutral tones.
 
 Canonical world anchors yang sedang didefinisikan:
 
@@ -139,6 +138,51 @@ Untuk lokasi yang muncul berulang, architecture, major furniture, scale, lightin
 
 - `assets/environment/rere-world-environment-sheet-canonical.png` — target canonical master sheet
 - `docs/WORLD-ENVIRONMENT-BIBLE-RERE.md` — detail visual DNA, canonical locations, continuity, safety, prompt anchor, negative prompt, ID/versioning, dan QA.
+
+## Prop System
+
+Rere juga memiliki **Prop System** untuk membuat benda-benda recurring menjadi bagian dari brand memory dan universe continuity.
+
+### Prop hierarchy
+
+**Character-critical → Signature recurring → Location anchors → Learning → Story → Decoration**
+
+### Tier A signature props
+
+- Pink Bunny — `RERE-PROP-PINK-BUNNY-01`
+- Pink Backpack — `RERE-PROP-BACKPACK-01`
+- Learning Book — `RERE-PROP-BOOK-01`
+- Pink Heart motif/element
+
+### Tier B character utility
+
+- Crayon Kit
+- Water Bottle
+- Learning Box
+- Pencil Case
+- Activity Apron
+
+Props harus mendukung cerita, pembelajaran, atau pengenalan dunia. Untuk usia 2–4 tahun, prinsipnya **one object, one clear idea**.
+
+Recurring props wajib menggunakan canonical reference + Prop ID dan tidak boleh mengalami random redesign antar-shot. Jika canonical design berubah secara intentional, version harus dinaikkan dan perubahan dicatat.
+
+### Prop Reference Asset Plan
+
+Target visual references:
+
+- Pink Bunny master sheet
+- Backpack master sheet
+- Learning Book master sheet
+- Crayon Kit master sheet
+- Pencil Case master sheet
+- Water Bottle master sheet
+- Core learning objects
+- Numeracy props
+- Literacy props
+- Science/nature props
+- Location anchor props
+
+Detail sistem, interaction rules, continuity, prompt anchor, negative prompt, versioning, dan QA: `docs/PROP-BIBLE-RERE.md`.
 
 ## Content Direction
 
@@ -201,6 +245,7 @@ Revenue adalah tujuan sekunder.
 - `docs/OUTFIT-BIBLE-RERE.md`
 - `docs/GESTURE-BIBLE-RERE.md`
 - `docs/WORLD-ENVIRONMENT-BIBLE-RERE.md`
+- `docs/PROP-BIBLE-RERE.md`
 
 ### Learning & Production
 - `docs/LEARNING-FRAMEWORK-SPEAK.md`
