@@ -1,6 +1,6 @@
-# Rere — Gesture Bible
+# Rere — Gesture & Pose Bible
 
-**Status:** Working Production Standard — v1.0  
+**Status:** Working Production Standard — v1.1  
 **Date:** 2026-09-12  
 **Scope:** Semua visual, animation, image-to-video, video generation, storyboard, thumbnail, dan character acting Rere.
 
@@ -11,6 +11,17 @@
 Gesture Bible mengunci **bahasa tubuh Rere** agar pose dan gerakan terasa berasal dari karakter yang sama di setiap episode.
 
 Facial expression menjawab **apa yang Rere rasakan**. Gesture menjawab **bagaimana Rere mengekspresikannya melalui tubuh**.
+
+Consistency Rere bukan hanya tentang wajah yang sama. Penonton harus dapat mengenali Rere dari:
+
+- cara menyapa
+- cara menunjuk
+- cara berpikir
+- cara bereaksi
+- cara mengajak
+- cara merayakan keberhasilan
+- cara menunjukkan kasih sayang
+- cara berinteraksi dengan benda dan teman
 
 > **Rere should act like a cheerful preschool child, not like an adult presenter.**
 
@@ -34,7 +45,10 @@ Prioritas:
 
 **Emotion clarity > complexity**  
 **Natural movement > theatrical movement**  
-**Child behavior > presenter behavior**
+**Child behavior > presenter behavior**  
+**Learning intention > visual busyness**
+
+Gerakan tidak perlu selalu besar. Gerakan kecil yang tepat sering lebih kuat daripada choreography yang ramai.
 
 ---
 
@@ -154,10 +168,12 @@ Use:
 Use:
 - emotional moments
 - kindness
-- closing
 - appreciation
+- closing
 
 Gesture harus terbaca jelas dalam medium shot.
+
+Jangan mengganti signature ini dengan finger-heart satu tangan sebagai default.
 
 ---
 
@@ -178,7 +194,7 @@ Jangan terlalu keras atau terlalu banyak repetisi.
 
 **Meaning:** “bagus”, “betul”, atau encouragement.
 
-Use secara selektif.
+Gunakan secara selektif.
 
 Tidak boleh menjadi gesture default setiap kali Rere mengatakan “betul”.
 
@@ -212,77 +228,24 @@ Sangat cocok untuk DISCOVER.
 
 ## 5. Emotion-to-Gesture Library
 
-### Happy
+| Emotion | Recommended gesture | Body language |
+|---|---|---|
+| Happy | open arms, wave, small clap | open posture, light bounce |
+| Excited | raised hands, small bounce | forward energy |
+| Curious | point + look, head tilt | lean forward |
+| Thinking | hand near chin | small pause, focused gaze |
+| Surprised | hands near chest/face | slight backward movement |
+| Sad | hands near body | shoulders/head slightly down |
+| Angry / frustrated | arms close, pout | controlled tension |
+| Proud | small hand raise, thumbs-up | upright posture |
+| Loving | two-hand heart, hug | warm/open |
+| Caring | gentle pat, helping hands | soft approach |
 
-- open arms
-- small bounce
-- clap
-- wave
-- pointing dengan excitement
+### Emotional restraint
 
-### Excited
+Untuk usia 2–4 tahun, emosi harus **jelas tetapi tidak ekstrem**.
 
-- kedua tangan naik
-- tubuh sedikit forward
-- small bounce
-- mata berbinar
-
-Hindari jumping terus-menerus.
-
-### Curious
-
-- head tilt
-- curious lean
-- finger near chin
-- pointing + focused gaze
-
-### Thinking
-
-- hand near chin
-- look upward
-- small pause
-- subtle body shift
-
-### Surprised
-
-- hands dekat dada/wajah
-- tubuh sedikit mundur
-- mata membesar
-- mulut sedikit terbuka
-
-Jangan gunakan reaction berlebihan seperti karakter slapstick.
-
-### Sad
-
-- shoulders sedikit turun
-- tangan dekat badan
-- head slightly down
-- movement lebih lambat
-
-### Angry / Frustrated
-
-Untuk anak usia 2–4, gunakan versi ringan:
-
-- eyebrows down
-- arms dekat tubuh
-- pout
-- small foot/body tension
-
-Tidak boleh agresif atau menakutkan.
-
-### Proud / Achievement
-
-- small fist/hand raise
-- chest sedikit terbuka
-- smile
-- optional thumbs up
-
-### Loving / Caring
-
-- two-hand heart
-- hug companion
-- gentle pat
-- open arms
+Sedih boleh terlihat sedih tanpa menjadi melodramatis. Marah boleh terlihat frustrasi tanpa agresif. Terkejut boleh terlihat jelas tanpa slapstick berlebihan.
 
 ---
 
@@ -332,7 +295,7 @@ Gesture mengikuti narasi:
 
 ---
 
-## 7. Audience Interaction Gestures
+## 7. Audience Interaction
 
 Ketika Rere berbicara langsung kepada penonton:
 
@@ -349,6 +312,8 @@ Hindari:
 - tangan terus bergerak tanpa fungsi
 - presenter-style arm choreography
 
+Rere sebaiknya terasa seperti **mengajak satu anak bermain**, bukan berbicara kepada kerumunan besar.
+
 ---
 
 ## 8. Pause / Wait Gesture
@@ -363,15 +328,67 @@ Saat PAUSE:
 
 - Rere tetap melihat camera/objek
 - expression curious
-- tubuh sedikit still
-- jangan langsung memberikan jawaban
+- tubuh relatif still
 - gesture minimal
+- jangan langsung memberikan jawaban
 
 Tujuan: memberi ruang bagi anak untuk berpikir dan merespons.
 
+### Anti-answer leakage
+
+Gesture tidak boleh membocorkan jawaban sebelum pause selesai.
+
+Contoh buruk:
+
+> Rere bertanya “Mana yang merah?” sambil menunjuk benda merah sebelum anak menjawab.
+
+Contoh baik:
+
+> Rere melihat beberapa benda, lalu membuka tangan ke seluruh pilihan dan menunggu.
+
 ---
 
-## 9. Movement Scale
+## 9. Correct / Incorrect Response Acting
+
+### Saat anak kemungkinan benar
+
+Recommended:
+
+**Smile → nod kecil → “Betul!” → small celebration**
+
+Pilihan celebration:
+
+- small clap
+- thumbs-up
+- open arms
+- happy bounce
+
+Tidak perlu semuanya sekaligus.
+
+### Saat anak salah atau belum menjawab
+
+Rere tetap supportive.
+
+Pattern:
+
+**Thinking → clue → retry invitation**
+
+Contoh:
+
+> “Hmm... hampir! Yuk kita lihat lagi.”
+
+Hindari:
+
+- aggressive head shake
+- finger wagging
+- laughing at child
+- facepalm
+- disappointed adult gesture
+- shame reaction
+
+---
+
+## 10. Movement Scale
 
 Gunakan tiga level:
 
@@ -405,59 +422,115 @@ Default level untuk mayoritas scene.
 
 Gunakan hanya ketika cerita membutuhkan.
 
----
+> **Stillness is also communication.**
 
-## 10. Movement Continuity
-
-Dalam shot sequence, perhatikan:
-
-- posisi tangan terakhir
-- arah pandangan
-- arah badan
-- posisi kaki
-- object yang sedang dipegang
-- interaction dengan companion
-
-Jika shot A berakhir dengan Rere memegang buku di tangan kanan, shot B sebaiknya tidak tiba-tiba memindahkan buku ke tangan kiri tanpa alasan.
+Terlalu banyak movement dapat membuat video melelahkan dan membuat Rere terlihat seperti presenter.
 
 ---
 
-## 11. Hand Rules
+## 11. Body Pose Library
 
-Tangan Rere harus:
+### P-01 — Neutral Stand
 
-- memiliki bentuk natural
-- proporsional dengan tubuh anak
-- tidak terlalu panjang
-- tidak memiliki jari tambahan
-- tidak menyatu secara aneh
-- tidak membuat gesture dewasa
+Default standing pose:
 
-AI hand artifacts adalah production defect dan harus diregenerate.
+- bahu relaxed
+- kaki natural
+- tangan santai
+- wajah siap berinteraksi
+
+### P-02 — Excited Lean
+
+Tubuh sedikit condong ke depan ketika menemukan sesuatu yang menarik.
+
+### P-03 — Curious Tilt
+
+Kepala sedikit miring dengan mata fokus.
+
+### P-04 — Thinking Lean
+
+Tubuh sedikit condong + tangan dekat dagu.
+
+### P-05 — Happy Jump
+
+Lompatan kecil saat sangat senang.
+
+Tetap childlike dan aman.
+
+### P-06 — Sitting Play
+
+Duduk di lantai/karpet dengan posisi nyaman.
+
+### P-07 — Reading
+
+Duduk atau berdiri sambil memegang buku, mata fokus ke halaman.
+
+### P-08 — Working
+
+Condong ringan ke meja ketika menggambar, menyusun, atau eksperimen.
+
+### P-09 — Helping
+
+Tubuh sedikit mendekati teman, tangan menawarkan bantuan.
+
+### P-10 — Calm / Rest
+
+Tubuh rileks dan gerakan minimal.
 
 ---
 
-## 12. Feet & Body Rules
+## 12. Social & Values Gestures
 
-Gerakan kaki harus sesuai anak usia dini.
+Untuk LIVE/FEEL content, gunakan gesture yang memodelkan perilaku positif.
 
-Default:
+### Helping
 
-- stance sedikit relaxed
-- langkah kecil
-- bounce ringan
-- knees natural
+Tangan menawarkan bantuan dan tubuh mendekat dengan ramah.
 
-Hindari:
+### Sharing
 
-- model runway walk
-- adult dance posture
-- exaggerated hip movement
-- overly athletic pose tanpa konteks
+Kedua tangan menyerahkan benda dengan senyum.
+
+### Thanking
+
+Tangan dekat dada + senyum hangat.
+
+### Apologizing
+
+Ekspresi tulus + gesture sederhana dekat dada.
+
+### Asking for Help
+
+Tangan sedikit terangkat + expression mencari bantuan.
+
+### Saying No / Boundary
+
+Telapak terbuka secara lembut + wajah tegas tetapi tidak marah.
+
+Rere memodelkan boundary tanpa gesture agresif.
 
 ---
 
-## 13. Regular vs Muslimah
+## 13. Interaction with Pink Bunny
+
+Pink Bunny adalah companion, bukan presenter kedua.
+
+Gesture Rere terhadap Bunny dapat meliputi:
+
+- hug
+- gentle pat
+- showing object to Bunny
+- inviting Bunny to play
+- helping Bunny
+- comforting Bunny
+- listening to Bunny
+- sharing with Bunny
+
+Bunny harus mendukung action Rere, bukan membuat Rere pasif terus-menerus.
+
+---
+
+## 14. Regular vs Muslimah
 
 Gesture language **harus sama** untuk Regular dan Muslimah Rere.
 
@@ -467,43 +540,198 @@ Perbedaan hanya pada:
 - hijab interaction yang relevan
 - movement constraints yang wajar akibat pakaian
 
+Contoh:
+
+Regular Rere → wave  
+Muslimah Rere → wave
+
+Regular Rere → thinking  
+Muslimah Rere → thinking
+
+Regular Rere → two-hand heart  
+Muslimah Rere → two-hand heart
+
 Muslimah Rere tidak boleh menjadi karakter dengan personality atau acting language yang berbeda.
 
 ---
 
-## 14. Companion Interaction
+## 15. Camera-Aware Gesture Rules
 
-Kelinci Pink dapat digunakan untuk:
+Gesture harus terbaca berdasarkan framing.
 
-- hug
-- carry
-- point toward companion
-- show companion to audience
-- comfort
-- pretend play
+### Close-up
 
-Companion harus mendukung gesture Rere, bukan membuat Rere pasif terus-menerus.
+Prioritas:
+
+- eyes
+- facial expression
+- small hand gesture
+
+### Medium Shot
+
+Prioritas:
+
+- hand gestures
+- upper body
+- facial expression
+
+### Full Body
+
+Prioritas:
+
+- body pose
+- movement
+- interaction with environment
+
+Jangan menggunakan gesture yang terlalu kecil untuk full-body shot jika gesture tersebut penting bagi story.
+
+Sebaliknya, jangan membuat full-body movement berlebihan dalam close-up.
 
 ---
 
-## 15. Gesture Anti-Patterns
+## 16. Animation Principles
 
-Jangan membuat Rere:
+### Anticipation
 
-- menunjuk terus-menerus
-- waving tanpa alasan
-- clap setiap selesai kalimat
-- thumbs-up setiap jawaban
-- dancing setiap transition
-- terlalu sering jumping
-- bergerak seperti presenter dewasa
-- menggunakan pose sensual/mature
-- menggunakan aggressive pointing
-- menggunakan gesture yang tidak sesuai emosi
+Gerakan kecil sebelum action utama.
+
+### Ease In / Ease Out
+
+Tidak bergerak seperti robot.
+
+### Follow Through
+
+Rambut, pakaian, dan aksesori boleh mengikuti gerakan secara lembut tetapi tidak berlebihan.
+
+### Natural Timing
+
+Gerakan anak memiliki sedikit spontanitas dan variasi.
+
+### Clear Silhouette
+
+Pose penting harus mudah dibaca.
+
+### Controlled Energy
+
+Energi tinggi tetap harus preschool-friendly dan tidak chaotic.
 
 ---
 
-## 16. AI Prompt Anchor
+## 17. Continuity Rules
+
+Dalam sequence berurutan, perhatikan:
+
+- posisi tangan terakhir
+- arah pandangan
+- arah badan
+- posisi kaki
+- object yang sedang dipegang
+- interaction dengan companion
+- arah gerak
+- emotional state
+
+Contoh:
+
+Shot A: Rere melihat apel.  
+Shot B: Rere menunjuk apel.  
+Shot C: Rere mengambil apel.  
+Shot D: Rere menunjukkan apel kepada audience.
+
+Jangan membuat continuity melompat tanpa alasan cerita.
+
+Jika shot A berakhir dengan buku di tangan kanan, shot berikutnya sebaiknya mempertahankan tangan kanan kecuali action memang memindahkannya.
+
+---
+
+## 18. Signature Acting Moments
+
+### Opening
+
+**Wave → Self Point → Invite**
+
+Cocok dengan:
+
+> “Hai teman-teman, aku Rere, main dan belajar bersama Rere, yuk!”
+
+### Discovery
+
+**Look → React → Point → Curious Lean**
+
+### Question
+
+**Look at object → Look at audience → Ask → Pause**
+
+### Correct Answer
+
+**Smile → Small Celebration**
+
+### Affection
+
+**Two-Hand Heart**
+
+### Closing
+
+**Smile → Two-Hand Heart → Wave**
+
+Signature choreography boleh sedikit bervariasi agar natural, tetapi beats utamanya harus recognizable.
+
+---
+
+## 19. Gesture Frequency Rules
+
+Tidak semua kalimat membutuhkan gesture.
+
+Default guideline:
+
+- dialogue penting → 1 gesture yang jelas
+- discovery → gesture + gaze
+- question → gesture minimal saat pause
+- emotional beat → expression lebih penting daripada movement
+- celebration → 1 clear positive gesture
+
+Jangan membuat:
+
+**gesture → gesture → gesture → gesture**
+
+pada setiap kalimat.
+
+Biarkan ada ruang untuk natural acting dan visual breathing room.
+
+---
+
+## 20. Gesture IDs
+
+### Hand Gestures
+
+- `G-01-WAVE`
+- `G-02-SELF-POINT`
+- `G-03-INVITE`
+- `G-04-POINT`
+- `G-05-THINK`
+- `G-06-HEART`
+- `G-07-CLAP`
+- `G-08-THUMBS-UP`
+- `G-09-OPEN-ARMS`
+- `G-10-CURIOUS-LEAN`
+
+### Body Poses
+
+- `P-01-NEUTRAL`
+- `P-02-EXCITED-LEAN`
+- `P-03-CURIOUS-TILT`
+- `P-04-THINKING-LEAN`
+- `P-05-HAPPY-JUMP`
+- `P-06-SITTING-PLAY`
+- `P-07-READING`
+- `P-08-WORKING`
+- `P-09-HELPING`
+- `P-10-CALM`
+
+Episode prompts dapat menggunakan ID ini sebagai shorthand setelah visual reference tersedia.
+
+---
+
+## 21. AI Prompt Anchor
 
 ```text
 Same Rere character and acting language as the canonical reference.
@@ -513,11 +741,13 @@ Use simple readable gestures appropriate for a 4-year-old child.
 Rere should behave like a playful learning companion, not an adult presenter.
 Keep gesture continuity between shots and maintain the intended emotion.
 For Regular and Muslimah Rere, keep the same gesture language and personality.
+Use signature gestures only when narratively appropriate.
+Preserve hand, object, gaze, and body continuity across sequential shots.
 ```
 
 ---
 
-## 17. Negative Prompt
+## 22. Negative Prompt — Gesture Drift
 
 ```text
 Do not use adult presenter gestures.
@@ -527,60 +757,84 @@ Do not use aggressive pointing.
 Do not overuse waving, clapping, thumbs-up, or jumping.
 Do not create random hand poses.
 Do not create extra fingers or malformed hands.
-Do not change object-hand continuity between shots without reason.
-Do not make Rere stiff like a mannequin.
+Do not create stiff mannequin-like movement.
 Do not make Rere excessively theatrical.
+Do not make Rere behave like an influencer or adult host.
+Do not change object-hand continuity between shots without reason.
+Do not reveal the answer through gesture before the intended pause.
+Do not use mocking, shaming, threatening, or intimidating gestures.
 Do not make Regular and Muslimah Rere behave like different characters.
+Keep movements natural, playful, gentle, age-appropriate, and preschool-friendly.
 ```
 
 ---
 
-## 18. Gesture QA Checklist
+## 23. Gesture QA Checklist
 
-- [ ] Gesture sesuai emosi.
-- [ ] Gesture sesuai learning intention.
-- [ ] Terlihat seperti anak usia dini.
-- [ ] Tidak seperti presenter dewasa.
-- [ ] Tidak terlalu theatrical.
-- [ ] Tangan dan jari anatomically valid.
-- [ ] Object continuity terjaga.
-- [ ] Direction of gaze masuk akal.
-- [ ] Gesture readable pada framing yang digunakan.
-- [ ] Regular dan Muslimah memiliki acting language yang sama.
-- [ ] Signature gesture digunakan ketika relevan, bukan dipaksakan.
+### Character
+
+- [ ] Gesture terasa seperti anak usia dini.
+- [ ] Tidak terlihat seperti presenter dewasa.
+- [ ] Personality Rere tetap ceria/ramah/penasaran.
+- [ ] Regular dan Muslimah menggunakan movement language yang sama.
+
+### Learning
+
+- [ ] Gesture mendukung learning intention.
+- [ ] Question gesture tidak membocorkan jawaban.
+- [ ] Pause memiliki visual stillness yang cukup.
+- [ ] Correct answer mendapat positive reinforcement.
+- [ ] Wrong answer tidak diperlakukan dengan shame.
+
+### Signature
+
+- [ ] Wave dapat dikenali.
+- [ ] Self-point digunakan ketika memperkenalkan “aku”.
+- [ ] Invitation gesture terasa natural.
+- [ ] Thinking pose konsisten.
+- [ ] Pointing natural.
+- [ ] Two-hand heart digunakan untuk “sayang” ketika relevan.
+- [ ] Closing dapat menggunakan heart + wave.
+
+### Animation
+
+- [ ] Pose terbaca pada framing yang digunakan.
+- [ ] Gerakan tidak terlalu cepat.
+- [ ] Tidak terlalu banyak movement.
+- [ ] Continuity antar-shot terjaga.
+- [ ] Gaze direction masuk akal.
+- [ ] Tangan/jari valid secara visual.
+- [ ] Tidak ada gesture random yang mengubah personality.
 
 ---
 
-## 19. Signature Acting Formula
+## 24. Reference Asset
 
-Untuk scene interaktif standar:
+Canonical visual reference:
 
-**NOTICE → REACT → ASK → PAUSE → LISTEN → CELEBRATE → INVITE NEXT ACTION**
+`assets/character/rere-gesture-pose-sheet-canonical.png`
 
-Contoh:
+Gunakan bersama:
 
-1. Rere melihat apel.
-2. Rere menunjukkan ekspresi penasaran.
-3. Rere menunjuk apel.
-4. Rere bertanya kepada audience.
-5. Rere berhenti dan menunggu.
-6. Rere tersenyum setelah respons.
-7. Rere melakukan small clap.
-8. Rere mengajak: “Yuk, cari yang merah!”
+- `rere-character-sheet-canonical.png`
+- `rere-character-sheet-v02.png`
+- `rere-expression-sheet-canonical.png`
+- `rere-turnaround-sheet-canonical.png`
 
-Ini menjadi salah satu pola acting utama Rere untuk educational content.
+Binary asset harus benar-benar tersedia di repository sebelum dianggap repository-hosted source of truth.
 
 ---
 
-## 20. Future Development
+## 25. Future Development
 
 Gesture Bible menjadi fondasi untuk:
 
-- animation prompt library
-- shot continuity system
-- motion reference sheet
-- video generation templates
-- expression-to-gesture mapping
-- scene QA
+1. World / Environment Bible
+2. Prop Bible
+3. Voice Bible
+4. Audio Identity Bible
+5. Camera & Cinematic Bible
+6. Master AI Prompt System
+7. Consistency QA System
 
 > **Rere's body language should be as recognizable and consistent as her face.**
