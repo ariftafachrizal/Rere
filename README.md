@@ -69,6 +69,12 @@ Signature visual: mata cokelat besar, bulu mata lentik, rambut gelap dengan **sa
 
 ## Rere Character & Production System
 
+### Batch 01 — Character Canonical Lock
+
+**Status: CANONICAL / LOCKED — RERE-CHARACTER-01 v1.0**
+
+Rere kini diperlakukan sebagai satu identity asset yang konsisten di seluruh episode. Scene baru boleh mengubah pose, kamera, environment, approved outfit variation, dan ekspresi, tetapi tidak boleh membuat identity Rere baru.
+
 Canonical visual references:
 
 1. `assets/character/rere-character-sheet-canonical.png`
@@ -90,17 +96,28 @@ Production consistency layers:
 
 ### Reference Hierarchy
 
-**Identity → Face → Anatomy → Outfit → Gesture → World → Props → Scene**
+**Identity → Face → Anatomy → Outfit → Gesture/Expression → World → Props → Scene**
 
 Scene prompt tidak boleh merusak identity yang telah dikunci oleh reference dan bible di atasnya.
 
+### Canonical Asset Rule
+
+Setiap recurring character dan recurring prop harus memiliki **individual canonical reference**.
+
+Master sheets, posters, storyboards, dan gambar contoh tidak otomatis menjadi source of truth. Jika sebuah prop muncul di character sheet, itu tidak berarti desain prop tersebut sudah canonical.
+
+Dokumen utama untuk registry, status, versioning, dan conflict resolution:
+
+- `docs/CANONICAL-ASSET-REGISTRY.md`
+
 ### Current Production Standards
 
-- `docs/CHARACTER-BIBLE-RERE.md`
+- `docs/CHARACTER-BIBLE-RERE.md` — **Batch 01 locked**
 - `docs/OUTFIT-BIBLE-RERE.md`
 - `docs/GESTURE-BIBLE-RERE.md`
 - `docs/WORLD-ENVIRONMENT-BIBLE-RERE.md`
 - `docs/PROP-BIBLE-RERE.md`
+- `docs/CANONICAL-ASSET-REGISTRY.md`
 
 ## World & Environment System
 
@@ -152,35 +169,33 @@ Rere juga memiliki **Prop System** untuk membuat benda-benda recurring menjadi b
 - Pink Bunny — `RERE-PROP-PINK-BUNNY-01`
 - Pink Backpack — `RERE-PROP-BACKPACK-01`
 - Learning Book — `RERE-PROP-BOOK-01`
-- Pink Heart motif/element
+- Pink Heart motif/element — `RERE-PROP-HEART-01`
 
 ### Tier B character utility
 
-- Crayon Kit
-- Water Bottle
-- Learning Box
-- Pencil Case
-- Activity Apron
+- Crayon Kit — `RERE-PROP-CRAYON-KIT-01`
+- Water Bottle — `RERE-PROP-WATER-BOTTLE-01`
+- Learning Box — `RERE-PROP-LEARNING-BOX-01`
+- Pencil Case — `RERE-PROP-PENCIL-CASE-01`
+- Activity Apron — `RERE-PROP-ACTIVITY-APRON-01`
 
 Props harus mendukung cerita, pembelajaran, atau pengenalan dunia. Untuk usia 2–4 tahun, prinsipnya **one object, one clear idea**.
 
 Recurring props wajib menggunakan canonical reference + Prop ID dan tidak boleh mengalami random redesign antar-shot. Jika canonical design berubah secara intentional, version harus dinaikkan dan perubahan dicatat.
 
-### Prop Reference Asset Plan
+### Prop Reference Asset Structure
 
-Target visual references:
+```text
+assets/props/
+├── master/
+│   └── rere-prop-master-sheet-canonical.png
+├── signature/
+├── utility/
+├── learning/
+└── environment/
+```
 
-- Pink Bunny master sheet
-- Backpack master sheet
-- Learning Book master sheet
-- Crayon Kit master sheet
-- Pencil Case master sheet
-- Water Bottle master sheet
-- Core learning objects
-- Numeracy props
-- Literacy props
-- Science/nature props
-- Location anchor props
+Master sheet adalah overview. **Individual canonical prop asset adalah source of truth untuk prop tersebut.**
 
 Detail sistem, interaction rules, continuity, prompt anchor, negative prompt, versioning, dan QA: `docs/PROP-BIBLE-RERE.md`.
 
@@ -212,6 +227,12 @@ Anak merasakan permainan; orang tua dapat melihat tujuan belajar yang jelas.
 **Idea → Research → Learning Objective → Script → Voice → Character/Animation → Edit → QA → Upload → Distribution → Analytics → Learn → Iterate**
 
 Gemini adalah production engine downstream dari framework Rere. Human review tetap menjadi quality gate.
+
+### Canonical Asset Production Workflow
+
+**Lock Character → Lock Props → Lock World → Build Scene → QA → Episode**
+
+Jangan membuat identity baru ketika membuat scene baru.
 
 ## Development Roadmap
 
@@ -246,6 +267,7 @@ Revenue adalah tujuan sekunder.
 - `docs/GESTURE-BIBLE-RERE.md`
 - `docs/WORLD-ENVIRONMENT-BIBLE-RERE.md`
 - `docs/PROP-BIBLE-RERE.md`
+- `docs/CANONICAL-ASSET-REGISTRY.md`
 
 ### Learning & Production
 - `docs/LEARNING-FRAMEWORK-SPEAK.md`
@@ -257,3 +279,5 @@ Revenue adalah tujuan sekunder.
 ## Repository Rule
 
 This repository is the working source of truth for Rere strategy, brand, character, learning framework, and production system. New production conventions must not conflict with approved/working documentation; update the relevant document when decisions change.
+
+> **Generate new stories, not new identities.**
