@@ -101,6 +101,45 @@ Scene prompt tidak boleh merusak identity yang telah dikunci oleh reference dan 
 - `docs/GESTURE-BIBLE-RERE.md`
 - `docs/WORLD-ENVIRONMENT-BIBLE-RERE.md`
 
+## World & Environment System
+
+Rere tidak hanya membutuhkan character consistency, tetapi juga **universe consistency**. Seluruh lokasi harus terasa berasal dari dunia yang sama meskipun fungsi, waktu, cuaca, dan setting berubah.
+
+World DNA:
+
+- warm
+- cheerful
+- soft
+- clean
+- playful
+- child-safe
+- rounded forms
+- friendly child-scale
+- imaginative
+- educational without looking institutional
+
+Pink adalah signature accent, bukan warna seluruh dunia. Supporting colors mencakup cream, warm white, light wood, pastel blue, pastel green, pastel yellow, soft lavender, dan neutral tones.
+
+Canonical world anchors yang sedang didefinisikan:
+
+- Playroom — home base/world anchor
+- Bedroom
+- Kitchen
+- Garden
+- Classroom
+- Playground/Park
+- Street/Community
+- Shop/Market
+- Beach/Nature
+- Imagination World
+
+Untuk lokasi yang muncul berulang, architecture, major furniture, scale, lighting direction, primary color relationships, dan anchor props harus dipertahankan.
+
+### World Reference Asset
+
+- `assets/environment/rere-world-environment-sheet-canonical.png` — target canonical master sheet
+- `docs/WORLD-ENVIRONMENT-BIBLE-RERE.md` — detail visual DNA, canonical locations, continuity, safety, prompt anchor, negative prompt, ID/versioning, dan QA.
+
 ## Content Direction
 
 Rere menggabungkan:
