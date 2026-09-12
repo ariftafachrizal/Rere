@@ -1,6 +1,6 @@
 # Rere — Play, Learn & Grow
 
-> **“Hai teman-teman, aku Rere, main dan belajar bersama Rere yuk!”**
+> **“Hai teman-teman, aku Rere, main dan belajar bersama Rere, yuk!”**
 
 Rere adalah project media edukasi anak yang lahir dari kebutuhan nyata: memanfaatkan ketertarikan anak usia dini terhadap YouTube sebagai media belajar yang menyenangkan, aman, bermakna, dan relevan dengan perkembangan mereka.
 
@@ -99,7 +99,7 @@ Rere memiliki kepribadian:
 - bertanggung jawab
 - mandiri
 
-Signature visual Rere meliputi mata cokelat besar, bulu mata lentik, rambut gelap dengan **satu kuncir tinggi seperti air mancur**, dan styling bernuansa pink. Character consistency menjadi quality gate untuk semua production asset.
+Signature visual Rere meliputi mata cokelat besar, bulu mata lentik, rambut gelap dengan **satu kuncir tinggi seperti air mancur** untuk Regular Rere, dan styling bernuansa pink. Rere juga memiliki **Muslimah presentation mode** dengan canonical pink hijab dan modest preschool styling; keduanya tetap satu karakter yang sama. Character consistency menjadi quality gate untuk semua production asset.
 
 **Signature opening yang dikunci:**
 
@@ -117,8 +117,36 @@ Lihat:
 
 - `docs/BRAND-GUIDELINE.md`
 - `docs/CHARACTER-BIBLE-RERE.md`
+- `docs/OUTFIT-BIBLE-RERE.md`
 - `docs/EPISODE-ARCHITECTURE.md`
 - `docs/EPISODE-001-RERE-BELAJAR-WARNA.md`
+
+## Rere Consistency System
+
+Empat canonical visual references menjadi fondasi visual:
+
+1. `assets/character/rere-character-sheet-canonical.png`
+2. `assets/character/rere-character-sheet-v02.png`
+3. `assets/character/rere-expression-sheet-canonical.png`
+4. `assets/character/rere-turnaround-sheet-canonical.png`
+
+Namun consistency system tidak berhenti pada character sheet. Rere sedang dikembangkan menjadi **Rere Character & Production System** dengan lapisan:
+
+1. Character Bible
+2. Outfit Bible
+3. Gesture Bible
+4. World / Environment Bible
+5. Prop Bible
+6. Voice Bible
+7. Audio Identity Bible
+8. Master AI Prompt System
+9. Consistency QA System
+
+Prinsip hierarchy:
+
+**Identity → Face → Anatomy → Outfit → World → Scene**
+
+Scene prompt tidak boleh merusak identity yang telah dikunci oleh reference dan bible di atasnya.
 
 ## Content Direction
 
@@ -224,6 +252,7 @@ Revenue adalah tujuan sekunder yang diharapkan dapat tumbuh dari value dan trust
 
 - `docs/BRAND-GUIDELINE.md` — brand identity, tone, signature intro/closing, visual rules, QA.
 - `docs/CHARACTER-BIBLE-RERE.md` — canonical character identity dan consistency rules.
+- `docs/OUTFIT-BIBLE-RERE.md` — wardrobe system, Regular/Muslimah variants, outfit IDs, production rules, dan outfit QA.
 
 ### Learning & Production
 
