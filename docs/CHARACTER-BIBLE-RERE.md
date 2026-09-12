@@ -1,6 +1,6 @@
 # Rere — Character Bible
 
-**Status:** Working Character Bible — 2026-09-11
+**Status:** Working Character Bible — 2026-09-12
 
 ## 1. Character Identity
 
@@ -30,7 +30,7 @@ Karakter inti:
 
 ## 3. Facial Identity
 
-Gunakan character sheet final dan referensi foto asli Rere yang telah diberikan sebagai dasar konsistensi visual.
+Gunakan character sheet final dan referensi visual yang telah disetujui sebagai dasar konsistensi visual.
 
 Ciri utama:
 
@@ -59,13 +59,25 @@ Jangan mengubah menjadi dua kuncir, bob, braids, loose hair, atau hairstyle lain
 
 ## 5. Outfit Identity
 
-Default outfit: pakaian anak bernuansa pink dengan desain nyaman, sederhana, cute, dan mudah dianimasikan.
+Default outfit adalah pakaian anak bernuansa pink dengan desain nyaman, sederhana, cute, dan mudah dianimasikan.
 
 Pink adalah signature color.
 
+Rere memiliki dua presentation modes yang tetap merupakan **karakter yang sama**:
+
+### Regular Rere
+
+Signature outfit identity menggunakan pakaian preschool bernuansa pink, pink footwear, dan pink hair bow; canonical reference mempertahankan single high fountain ponytail.
+
+### Muslimah Rere
+
+Signature outfit identity menggunakan pink hijab, modest preschool silhouette, long-sleeve styling, dan pink footwear. Hijab adalah bagian dari canonical Muslimah identity dan tidak boleh dihilangkan secara random.
+
 Outfit dapat memiliki variasi episode bila diperlukan, tetapi elemen inti Rere harus tetap mudah dikenali.
 
-Untuk production references, gunakan character sheet final sebagai visual source of truth.
+Detail sistem wardrobe, outfit IDs, approved outfit families, modesty rules, animation requirements, dan negative prompt tersedia di:
+
+- `docs/OUTFIT-BIBLE-RERE.md`
 
 ## 6. Expression Library
 
@@ -204,13 +216,22 @@ Canonical reference assets disimpan di:
 
 `assets/character/`
 
-File referensi harus dianggap sebagai source of truth untuk konsistensi wajah, rambut, proporsi, dan visual signature.
+Current canonical reference set:
+
+- `rere-character-sheet-canonical.png`
+- `rere-character-sheet-v02.png`
+- `rere-expression-sheet-canonical.png`
+- `rere-turnaround-sheet-canonical.png`
+
+File referensi harus dianggap sebagai source of truth untuk konsistensi wajah, rambut, proporsi, expression language, wardrobe direction, dan visual signature.
+
+> Catatan produksi: binary image assets perlu tersedia di repository sebelum dapat dipakai sebagai repository-hosted reference. Dokumentasi tidak boleh mengklaim binary sudah ter-upload bila file belum benar-benar tersedia di GitHub.
 
 ## 14. Prompt Consistency Anchor
 
 Untuk setiap prompt visual/video, gunakan prinsip:
 
-> **“Same Rere character as supplied reference; preserve identical face, brown eyes, eyelashes, dark hair, single high fountain ponytail, pink signature styling, child proportions, and friendly preschool expression.”**
+> **“Same Rere character as supplied reference; preserve identical face, brown eyes, eyelashes, dark hair, single high fountain ponytail for Regular Rere, canonical pink hijab for Muslimah Rere, child proportions, and friendly preschool expression.”**
 
 Untuk shot berurutan, prioritaskan continuity karakter daripada menambah detail visual yang tidak diperlukan.
 
@@ -222,9 +243,11 @@ Sebelum asset dianggap final:
 - [ ] mata cokelat konsisten
 - [ ] bulu mata konsisten
 - [ ] rambut gelap konsisten
-- [ ] satu kuncir tinggi seperti air mancur
-- [ ] ikat rambut/bow pink konsisten
+- [ ] satu kuncir tinggi seperti air mancur untuk Regular
+- [ ] hijab canonical tetap ada untuk Muslimah
+- [ ] ikat rambut/bow pink konsisten untuk Regular
 - [ ] proporsi anak konsisten
+- [ ] outfit sesuai Outfit Bible
 - [ ] ekspresi sesuai adegan
 - [ ] tidak terlihat dewasa
 - [ ] personality terasa ceria/ramah/penasaran
