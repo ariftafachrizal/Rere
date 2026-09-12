@@ -113,15 +113,7 @@ Episode structure working version:
 4. Learning Story
 5. Signature Closing
 
-Lihat:
-
-- `docs/BRAND-GUIDELINE.md`
-- `docs/CHARACTER-BIBLE-RERE.md`
-- `docs/OUTFIT-BIBLE-RERE.md`
-- `docs/EPISODE-ARCHITECTURE.md`
-- `docs/EPISODE-001-RERE-BELAJAR-WARNA.md`
-
-## Rere Consistency System
+## Rere Character & Production System
 
 Empat canonical visual references menjadi fondasi visual:
 
@@ -130,7 +122,7 @@ Empat canonical visual references menjadi fondasi visual:
 3. `assets/character/rere-expression-sheet-canonical.png`
 4. `assets/character/rere-turnaround-sheet-canonical.png`
 
-Namun consistency system tidak berhenti pada character sheet. Rere sedang dikembangkan menjadi **Rere Character & Production System** dengan lapisan:
+Consistency system dikembangkan sebagai beberapa layer yang saling mengunci:
 
 1. Character Bible
 2. Outfit Bible
@@ -142,11 +134,17 @@ Namun consistency system tidak berhenti pada character sheet. Rere sedang dikemb
 8. Master AI Prompt System
 9. Consistency QA System
 
-Prinsip hierarchy:
+### Reference Hierarchy
 
 **Identity → Face → Anatomy → Outfit → World → Scene**
 
 Scene prompt tidak boleh merusak identity yang telah dikunci oleh reference dan bible di atasnya.
+
+### Current Production Standards
+
+- `docs/CHARACTER-BIBLE-RERE.md`
+- `docs/OUTFIT-BIBLE-RERE.md`
+- `docs/GESTURE-BIBLE-RERE.md`
 
 ## Content Direction
 
@@ -253,6 +251,7 @@ Revenue adalah tujuan sekunder yang diharapkan dapat tumbuh dari value dan trust
 - `docs/BRAND-GUIDELINE.md` — brand identity, tone, signature intro/closing, visual rules, QA.
 - `docs/CHARACTER-BIBLE-RERE.md` — canonical character identity dan consistency rules.
 - `docs/OUTFIT-BIBLE-RERE.md` — wardrobe system, Regular/Muslimah variants, outfit IDs, production rules, dan outfit QA.
+- `docs/GESTURE-BIBLE-RERE.md` — body language, signature gestures, acting rules, movement continuity, dan gesture QA.
 
 ### Learning & Production
 
