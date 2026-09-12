@@ -1,6 +1,6 @@
 # Rere — Prop Bible
 
-**Status:** Working Production Standard — v1.0  
+**Status:** **Production Standard — v1.1 / Canonical Consistency System**  
 **Date:** 2026-09-12  
 **Scope:** recurring props, learning objects, story objects, set dressing, thumbnails, image generation, animation, and video production.
 
@@ -24,7 +24,23 @@ Props mempunyai tiga fungsi utama:
 
 Decorative props adalah prioritas terakhir.
 
-## 3. Prop Hierarchy
+## 3. Canonical Asset Rule — NEW / LOCKED
+
+Setiap recurring prop harus mempunyai **individual canonical visual reference**.
+
+**Bible ≠ canonical image.**
+
+Gambar yang muncul sebagai contoh di Bible, storyboard, poster, character sheet, atau master sheet hanya bersifat **illustrative** kecuali file tersebut secara eksplisit didaftarkan sebagai canonical asset.
+
+Contoh:
+
+- Bunny yang kebetulan terlihat pada character sheet Rere **tidak otomatis menjadi canonical Bunny**.
+- Bunny canonical adalah file individual yang memiliki Prop ID dan status canonical.
+- Setelah Bunny individual dikunci, semua scene dan master sheet berikutnya harus menggunakan desain Bunny tersebut.
+
+Registry utama: `docs/CANONICAL-ASSET-REGISTRY.md`.
+
+## 4. Prop Hierarchy
 
 Prioritas production:
 
@@ -37,7 +53,7 @@ Prioritas production:
 
 Jika frame terlalu ramai, hapus dekorasi terlebih dahulu, bukan primary learning prop.
 
-## 4. Prop DNA Rere
+## 5. Prop DNA Rere
 
 Default prop language:
 
@@ -54,7 +70,7 @@ Default prop language:
 
 Hindari benda yang terasa terlalu dewasa, industrial, intimidating, overly realistic tanpa kebutuhan, terlalu complex, atau visually noisy.
 
-## 5. Signature Prop System
+## 6. Signature Prop System
 
 ### Tier A — Brand Signature
 
@@ -73,17 +89,9 @@ Wajib dijaga sangat ketat:
 8. Pencil case
 9. Activity apron
 
-### Tier C — Location Anchors
-
-10. Toy storage
-11. Low bookshelf
-12. Learning table
-13. Small plant pot
-14. Recurring room decor
-
 Tier A memiliki prioritas consistency paling tinggi.
 
-## 6. Pink Bunny — Primary Companion Prop
+## 7. Pink Bunny — Primary Companion Prop
 
 **ID:** `RERE-PROP-PINK-BUNNY-01`
 
@@ -100,11 +108,25 @@ Design DNA:
 
 Bisa berfungsi tanpa dialog melalui looking, pointing, hugging, sitting beside Rere, gentle comedy, dan celebration.
 
-**Locked:** species, color identity, face design, ear shape, silhouette, dan size relationship terhadap Rere.
+### Canonical Status
 
-Kelinci harus tetap terasa sebagai companion yang sama.
+**Pending individual canonical lock.**
 
-## 7. Rere Pink Backpack
+Desain Bunny pada gambar lain tidak boleh dianggap final hanya karena terlihat mirip. Setelah individual Bunny canonical dibuat dan disetujui, gunakan file tersebut sebagai satu-satunya identity anchor Bunny.
+
+### Required canonical views
+
+- front
+- 3/4
+- side
+- back bila diperlukan
+- face/detail close-up
+- scale relative to Rere
+- material/texture reference
+
+Yang harus dikunci: species, color identity, face design, eye/face placement, ear shape, body silhouette, bow/accessory bila ada, material, dan size relationship terhadap Rere.
+
+## 8. Rere Pink Backpack
 
 **ID:** `RERE-PROP-BACKPACK-01`
 
@@ -118,11 +140,15 @@ Design:
 - simple heart/flower detail
 - practical straps
 
+### Canonical Status
+
+Pending individual canonical lock.
+
 Use: outdoor adventure, school, travel, nature exploration, transitions.
 
-Jika dipakai dalam sequence, warna, shape, pocket placement, dan motif tidak boleh berubah random.
+Jika dipakai dalam sequence, warna, shape, pocket placement, motif, straps, dan scale tidak boleh berubah random.
 
-## 8. Rere Learning Book
+## 9. Rere Learning Book
 
 **ID:** `RERE-PROP-BOOK-01`
 
@@ -130,11 +156,15 @@ Role: recurring learning/story prop.
 
 Design: child-friendly, rounded corners, pink/cream cover, simple heart/flower accent, thick preschool pages.
 
+### Canonical Status
+
+Pending individual canonical lock.
+
 Use: storytelling, literacy, imagination transitions, review, quiet learning.
 
 Cover canonical harus konsisten bila buku yang sama muncul kembali.
 
-## 9. Rere Crayon Kit
+## 10. Rere Crayon Kit
 
 **ID:** `RERE-PROP-CRAYON-KIT-01`
 
@@ -142,27 +172,39 @@ Role: creative learning anchor.
 
 Design: rounded crayons, child-safe appearance, controlled rainbow/pastel colors, pink case, simple shapes.
 
+### Canonical Status
+
+Pending individual canonical lock.
+
 Use: colors, shapes, drawing, creativity, fine-motor stories.
 
 Individual crayons dapat berubah sesuai learning objective; container/kit adalah recurring asset.
 
-## 10. Rere Water Bottle
+## 11. Rere Water Bottle
 
 **ID:** `RERE-PROP-WATER-BOTTLE-01`
 
 Design: preschool size, rounded, pink/cream, simple heart motif, safe-looking cap.
 
+### Canonical Status
+
+Pending individual canonical lock.
+
 Use: hydration, healthy habits, school, outdoor.
 
-## 11. Rere Pencil Case
+## 12. Rere Pencil Case
 
 **ID:** `RERE-PROP-PENCIL-CASE-01`
 
 Design: pink fabric/plastic, rounded zipper shape, simple flower/heart detail.
 
+### Canonical Status
+
+Pending individual canonical lock.
+
 Use: literacy, drawing, school scenes.
 
-## 12. Learning Prop Library
+## 13. Learning Prop Library
 
 Learning props harus konkret, sederhana, mudah dibaca, dan mendukung recognition/classification.
 
@@ -208,7 +250,7 @@ Learning props harus konkret, sederhana, mudah dibaca, dan mendukung recognition
 - watering can
 - simple measuring cups
 
-## 13. Story Prop Rules
+## 14. Story Prop Rules
 
 Story prop harus memiliki fungsi naratif jelas.
 
@@ -216,7 +258,7 @@ Contoh: Rere mencari warna merah → apel merah menjadi primary prop. Rere belaj
 
 Jangan menambahkan banyak benda random hanya untuk membuat scene “lebih kaya”.
 
-## 14. Location Anchor Props
+## 15. Location Anchor Props
 
 Ikuti `WORLD-ENVIRONMENT-BIBLE-RERE.md`.
 
@@ -256,7 +298,7 @@ Ikuti `WORLD-ENVIRONMENT-BIBLE-RERE.md`.
 - learning cards
 - child-size tables
 
-## 15. Scale & Child Perspective
+## 16. Scale & Child Perspective
 
 Prop scale harus masuk akal terhadap Rere:
 
@@ -268,7 +310,7 @@ Prop scale harus masuk akal terhadap Rere:
 
 AI tidak boleh membuat scale berubah drastis antar-shot.
 
-## 16. Material Language
+## 17. Material Language
 
 Default:
 
@@ -281,7 +323,7 @@ Default:
 
 Material harus tactile dan friendly.
 
-## 17. Color Rules
+## 18. Color Rules
 
 Pink adalah signature, bukan default untuk semua benda.
 
@@ -292,7 +334,7 @@ Pink adalah signature, bukan default untuk semua benda.
 
 Untuk teaching colors, jangan membuat semua learning objects pink. Anak harus melihat perbedaan warna dengan jelas.
 
-## 18. Prop Readability
+## 19. Prop Readability
 
 Untuk usia 2–4 tahun:
 
@@ -304,7 +346,7 @@ Untuk usia 2–4 tahun:
 
 > **One object, one clear idea.**
 
-## 19. Interaction Rules
+## 20. Interaction Rules
 
 Prop idealnya memungkinkan aksi:
 
@@ -323,7 +365,7 @@ Prop idealnya memungkinkan aksi:
 
 Interaksi konkret lebih penting daripada object yang hanya dipajang.
 
-## 20. Prop + Learning Design
+## 21. Prop + Learning Design
 
 Gunakan pola:
 
@@ -331,7 +373,7 @@ Gunakan pola:
 
 Contoh: Rere melihat apel → menyentuh → menyebut “merah” → membandingkan → meminta anak menemukan merah → mengulang.
 
-## 21. Prop Continuity Across Shots
+## 22. Prop Continuity Across Shots
 
 Pertahankan:
 
@@ -344,7 +386,7 @@ Pertahankan:
 
 Jangan mengubah prop yang sama menjadi bentuk/ukuran lain di shot berikutnya tanpa alasan cerita.
 
-## 22. Prop Continuity Across Episodes
+## 23. Prop Continuity Across Episodes
 
 Untuk Tier A/B recurring props:
 
@@ -355,7 +397,7 @@ Untuk Tier A/B recurring props:
 
 One-off story props lebih fleksibel, tetapi tetap mengikuti Prop DNA Rere.
 
-## 23. Prop Versioning
+## 24. Prop Versioning
 
 Format:
 
@@ -370,27 +412,30 @@ Contoh:
 
 Jika canonical form berubah, naikkan version dan catat perubahan.
 
-## 24. AI Generation Anchor
+## 25. AI Generation Anchor
 
 ```text
 Use the established Rere prop system.
-Preserve the canonical design, silhouette, proportions,
-materials, color identity, and recognizable details of recurring props.
-For recurring props, use the exact same prop design as the supplied reference.
-Do not redesign signature props between shots.
+For every recurring prop, use the supplied canonical individual reference.
+Preserve the exact canonical silhouette, proportions, materials,
+color identity, markings, and recognizable details.
+Do not redesign signature props between shots or episodes.
 Keep props preschool-scale, rounded, tactile, friendly, simple,
 and easy to recognize.
 Use pink selectively for Rere signature props while keeping
 learning objects visually distinct and educationally readable.
+If no individual canonical reference exists yet, treat generated artwork
+as DRAFT and do not silently promote it to canonical.
 ```
 
-## 25. Negative Prompt — Prop Drift
+## 26. Negative Prompt — Prop Drift
 
 ```text
 Do not redesign recurring Rere props.
 Do not randomly change prop color, shape, size, or material.
 Do not change the Pink Bunny into another animal.
 Do not change the Pink Bunny's facial identity.
+Do not invent a new Bunny from text when a canonical Bunny reference exists.
 Do not change Rere's backpack design between shots.
 Do not add excessive decorative objects.
 Do not make learning props too small to read.
@@ -400,29 +445,33 @@ Do not clutter the frame with irrelevant props.
 Do not let props overpower Rere's character identity.
 ```
 
-## 26. Prop Reference Asset Plan
+## 27. Prop Reference Asset Plan
 
-Canonical visual assets dibuat bertahap:
+Canonical visual assets dibuat bertahap dan dikunci satu per satu:
 
-1. Pink Bunny master sheet
-2. Backpack master sheet
-3. Learning Book master sheet
-4. Crayon Kit master sheet
-5. Pencil Case master sheet
-6. Water Bottle master sheet
-7. Core learning objects sheet
-8. Numeracy prop sheet
-9. Literacy prop sheet
-10. Science/nature prop sheet
-11. Location anchor prop sheets
+1. Pink Bunny
+2. Backpack
+3. Learning Book
+4. Pink Heart motif
+5. Crayon Kit
+6. Pencil Case
+7. Water Bottle
+8. Learning Box
+9. Activity Apron
+10. Core learning objects
+11. Numeracy props
+12. Literacy props
+13. Science/nature props
+14. Location anchor prop sheets
 
-Setiap master sheet idealnya menunjukkan front, 3/4, side bila diperlukan, scale relative to Rere, color/material reference, detail close-up, dan usage examples bila membantu.
+Setiap individual canonical asset idealnya menunjukkan front, 3/4, side bila diperlukan, scale relative to Rere, color/material reference, detail close-up, dan usage examples bila membantu.
 
-## 27. Prop QA Checklist
+## 28. Prop QA Checklist
 
 ### Identity
 
-- [ ] Prop canonical.
+- [ ] Prop memiliki Prop ID.
+- [ ] Individual canonical reference tersedia jika recurring.
 - [ ] Shape konsisten.
 - [ ] Color konsisten.
 - [ ] Material konsisten.
@@ -452,7 +501,7 @@ Setiap master sheet idealnya menunjukkan front, 3/4, side bila diperlukan, scale
 - [ ] Cocok dengan canonical environment.
 - [ ] Tidak merusak visual DNA Rere.
 
-## 28. Future Development
+## 29. Future Development
 
 Prop Bible menjadi fondasi untuk:
 
@@ -463,6 +512,8 @@ Prop Bible menjadi fondasi untuk:
 5. Scene Continuity Tracker
 6. Production QA
 
-## 29. Production Principle
+## 30. Production Principle
 
 > **A prop should either tell the story, teach the idea, anchor the world, or support the character. If it does none of these, it probably does not need to be there.**
+
+> **Generate new stories, not new prop identities.**
