@@ -4,6 +4,41 @@
 
 Rere adalah project media edukasi anak yang lahir dari kebutuhan nyata: memanfaatkan ketertarikan anak usia dini terhadap YouTube sebagai media belajar yang menyenangkan, aman, bermakna, dan relevan dengan perkembangan mereka.
 
+## Current Project Status — 2026-09-14
+
+**The Rere YouTube channel has not been created yet.**
+
+The project already has a substantial strategy, learning, brand, character, world, asset, curriculum, pre-production, Gemini, QA, packaging and production-control system. The current execution priority is therefore **channel foundation**, not episode rendering.
+
+Current order:
+
+1. Channel Foundation
+2. Channel Branding & Configuration
+3. Publishing + Operating System
+4. EP001 Pilot
+5. EP002–EP006
+6. EP007–EP036
+7. EP037–EP060
+8. EP061–EP084
+9. EP085–EP108
+10. EP109–EP120
+11. QA, Publishing & Learning Review
+
+Canonical foundation documents:
+- `docs/RERE-CHANNEL-FOUNDATION-AUDIT-V01.md`
+- `docs/RERE-CHANNEL-FOUNDATION-MASTER-V01.md`
+- `docs/RERE-YOUTUBE-CHANNEL-SETUP-SPEC-V01.md`
+- `docs/RERE-CHANNEL-REGISTRY-V01.md`
+- `docs/RERE-CHANNEL-LAUNCH-CHECKLIST-V01.md`
+- `docs/RERE-CHANNEL-OPERATING-SYSTEM-V01.md`
+
+The existing production control system remains downstream and is not being rebuilt:
+- `docs/RERE-PRODUCTION-CONTROL-MASTER-V02.md`
+- Todoist project: **YouTube Rere — Production Control**
+
+Todoist now has a separate upstream project for channel foundation:
+- **YouTube Rere — Channel Foundation**
+
 ## Vision
 
 **Menjadi teman belajar anak yang membuat mereka senang bermain, belajar, berbicara, dan mengenal nilai-nilai kehidupan melalui video yang aman, menyenangkan, dan bermakna.**
@@ -260,6 +295,14 @@ Revenue adalah tujuan sekunder.
 - `docs/DECISIONS.md`
 - `docs/RESEARCH-REFERENCES.md`
 
+### Channel Foundation & Operations
+- `docs/RERE-CHANNEL-FOUNDATION-AUDIT-V01.md`
+- `docs/RERE-CHANNEL-FOUNDATION-MASTER-V01.md`
+- `docs/RERE-YOUTUBE-CHANNEL-SETUP-SPEC-V01.md`
+- `docs/RERE-CHANNEL-REGISTRY-V01.md`
+- `docs/RERE-CHANNEL-LAUNCH-CHECKLIST-V01.md`
+- `docs/RERE-CHANNEL-OPERATING-SYSTEM-V01.md`
+
 ### Brand & Character
 - `docs/BRAND-GUIDELINE.md`
 - `docs/CHARACTER-BIBLE-RERE.md`
@@ -275,9 +318,10 @@ Revenue adalah tujuan sekunder.
 - `docs/PRODUCTION-WORKFLOW-GEMINI.md`
 - `docs/EPISODE-ARCHITECTURE.md`
 - `docs/EPISODE-001-RERE-BELAJAR-WARNA.md`
+- `docs/RERE-PRODUCTION-CONTROL-MASTER-V02.md`
 
 ## Repository Rule
 
-This repository is the working source of truth for Rere strategy, brand, character, learning framework, and production system. New production conventions must not conflict with approved/working documentation; update the relevant document when decisions change.
+This repository is the working source of truth for Rere strategy, brand, character, learning framework, channel foundation, operating system, and production system. New production conventions must not conflict with approved/working documentation; update the relevant document when decisions change.
 
 > **Generate new stories, not new identities.**
