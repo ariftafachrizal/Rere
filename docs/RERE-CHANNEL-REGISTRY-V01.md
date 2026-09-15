@@ -1,72 +1,81 @@
 # RERE — CHANNEL REGISTRY V01
 
 **Status:** ACTIVE / CANONICAL RECORD
-**Date:** 2026-09-14
+**Date:** 2026-09-15
 
-This file records the actual public YouTube channel state and the canonical migration target. Actual live values must never be guessed.
+This file records the actual public YouTube channel state. Actual live values must never be guessed.
 
 ## Current live channel identity
 
-- Channel name: `Rere Yuk Main!`
-- Handle: `@RereYukMain`
-- Channel URL: `https://www.youtube.com/@RereYukMain`
+- Channel name: `Rere dan Cipi`
+- Handle: `@RereDanCipi`
+- Channel URL: `https://www.youtube.com/@RereDanCipi`
 - Channel ID: `TBD — copy from YouTube Studio when needed`
 - Creation date: `2026-09-14`
 - Owner/account: `TBD — record the actual controlling account/Brand Account`
-- Country/region: `TBD — verify saved state in YouTube Studio`
+- Country/region: `Indonesia`
 
-## Canonical public identity — migration target
+## Canonical public identity
 
 - Public brand: `Rere dan Cipi`
-- Target handle: `@RereDanCipi` — VERIFY LIVE
 - Main character: `Rere`
 - Companion: `Cipi — Kelinci Pintar`
 - Core signature: `BELAJAR • BERMAIN • BERBAGI`
 - Supporting phrase: `MAIN • COBA • TEMUKAN`
 
-The current `Rere Yuk Main!` identity is a migration source/state, not the canonical future public brand.
-
 ## Current channel presentation
 
-- Avatar: uploaded; current asset requires migration to Rere + Cipi
-- Banner: uploaded; current asset requires migration to Rere + Cipi; safe-area refinement may be revisited
-- Description: saved; current copy uses the previous Rere-only identity and requires migration
-- Watermark: uploaded; current asset uses the previous identity and requires migration
-- Home tab: enabled; currently minimal/default with no populated playlist sections
+- Avatar: Rere + Cipi canonical public-brand asset uploaded
+- Banner: Rere + Cipi canonical public-brand asset uploaded; composition was refined so the important artwork remains within the YouTube all-device safe area
+- Description: canonical Rere dan Cipi public description saved
+- Watermark: `TBD — verify final live asset and placement`
+- Home tab: enabled
+- Home sections: Video section plus the 7 canonical Rere dan Cipi playlists; `Untuk Anda` section removed before launch
 - Links/contact: intentionally empty at current launch stage
-- Channel keywords: `TBD — verify saved state`
+- Channel keywords: configured with the canonical Rere + Cipi keyword set
 
 ## Audience configuration
 
-- Channel audience setting: `TBD — verify saved state in YouTube Studio`
-- Date configured: `TBD`
-- Notes: Rere dan Cipi is designed for children ages 2–4; audience classification must be configured accurately in the live YouTube UI.
+- Channel audience setting: `Made for Kids`
+- Date configured: `2026-09-15`
+- Notes: Rere dan Cipi is designed for children ages 2–4; audience classification is configured at channel level and must remain accurate for future uploads.
 
 ## Playlists
 
 | Playlist | URL | Status |
 |---|---|---|
-| Mulai Belajar Bersama Rere | TBD | Planned |
-| Belajar Konsep Dasar | TBD | Planned |
-| Bahasa & Bicara | TBD | Planned |
-| Perasaan & Berteman | TBD | Planned |
-| Kebiasaan Baik | TBD | Planned |
-| Kreasi & Imajinasi | TBD | Planned |
-| Rere Shorts | TBD | Planned |
+| 🌸 Mulai Belajar Bersama Rere dan Cipi | TBD | Created / Public |
+| 🎨 Belajar Konsep Dasar Bersama Rere dan Cipi | TBD | Created / Public |
+| 💬 Bahasa & Bicara Bersama Rere dan Cipi | TBD | Created / Public |
+| 💕 Perasaan & Berteman Bersama Rere dan Cipi | TBD | Created / Public |
+| 🌱 Kebiasaan Baik Bersama Rere dan Cipi | TBD | Created / Public |
+| 🎨 Kreasi & Imajinasi Bersama Rere dan Cipi | TBD | Created / Public |
+| 🌈 Rere dan Cipi Shorts | TBD | Created / Public |
 
-## Migration checklist
+Playlist URLs remain TBD until copied directly from the live YouTube UI; never infer them.
 
-- [ ] Verify Rere dan Cipi availability on YouTube.
-- [ ] Verify @RereDanCipi availability on YouTube.
-- [ ] Verify brand name on Instagram, TikTok and DJKI.
-- [ ] Change live channel name.
-- [ ] Change live handle if available/accepted.
-- [ ] Upload canonical Rere + Cipi avatar.
-- [ ] Upload canonical Rere + Cipi banner.
-- [ ] Replace channel description with canonical Rere dan Cipi copy.
-- [ ] Replace channel keywords with canonical Rere dan Cipi set.
-- [ ] Replace watermark with Rere + Cipi asset.
-- [ ] Record final live values after migration.
+## Channel foundation status
+
+- [x] Real YouTube channel exists.
+- [x] Public brand is `Rere dan Cipi`.
+- [x] Handle is `@RereDanCipi`.
+- [x] Canonical Rere + Cipi avatar uploaded.
+- [x] Canonical Rere + Cipi banner uploaded.
+- [x] Canonical Rere dan Cipi description saved.
+- [x] Country/region configured as Indonesia.
+- [x] Channel keywords configured.
+- [x] Channel audience configured as Made for Kids.
+- [x] Advanced channel settings reviewed.
+- [x] Home tab enabled and `Untuk Anda` removed before launch.
+- [x] Seven canonical playlists created.
+- [x] Default upload workflow configured.
+- [x] Title template configured.
+- [x] Description template configured.
+- [x] Hashtag baseline configured.
+- [ ] Verify final watermark state.
+- [ ] Final public-channel visual/metadata QA from the live channel page.
+- [ ] Record channel ID and playlist URLs from live YouTube UI.
+- [ ] Complete foundation handoff.
 
 ## First publication
 
@@ -80,8 +89,9 @@ The current `Rere Yuk Main!` identity is a migration source/state, not the canon
 | Date | Change | Owner |
 |---|---|---|
 | 2026-09-14 | Registry created before channel creation | Rere project |
-| 2026-09-14 | Real channel created; current live identity recorded | Rere project |
+| 2026-09-14 | Real channel created; initial live identity recorded | Rere project |
 | 2026-09-14 | Public brand changed to Rere dan Cipi; migration target recorded | Rere project |
+| 2026-09-15 | Live channel migrated to Rere dan Cipi; foundation configuration and playlists recorded | Rere project |
 
 ## Rule
 
