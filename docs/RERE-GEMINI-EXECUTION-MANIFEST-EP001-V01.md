@@ -6,7 +6,7 @@ This episode-specific manifest delegates to the canonical universal resource map
 
 **Episode prompt source:** `docs/BATCH-001-SHOT-PROMPTS-V01.md`
 
-**Storyboard:** `docs/EPISODE-001-STORYBOARD-PRODUCTION-MASTER-V02.md`
+**Active storyboard:** `docs/EPISODE-001-STORYBOARD-PRODUCTION-MASTER-V03.md`
 
 **Character:** `docs/CHARACTER-BIBLE-RERE.md` + `assets/character/rere-character-sheet-canonical.png`
 
@@ -15,5 +15,9 @@ This episode-specific manifest delegates to the canonical universal resource map
 **World:** `docs/WORLD-ENVIRONMENT-BIBLE-RERE.md`
 
 **QA:** `docs/BATCH-001-QA-SYSTEM-V01.md`
+
+**Brand:** Rere dan Cipi
+
+**Production gate:** EP001 scene generation remains locked until the six learning assets are generated and human-QA approved.
 
 Use the universal manifest's reference order and acceptance rules for every EP001 shot.
