@@ -214,7 +214,7 @@ Anak diajak mengenali dan mulai menyebutkan lima warna melalui benda familiar:
 
 > “Hari ini kita sudah belajar warna merah, kuning, biru, hijau, dan pink.”
 
-> “Hebat! Kamu sudah ikut mencari warna bersama Rere.”
+> “Hebat! Kamu sudah ikut mencari warna bersama Rere dan Cipi.”
 
 ### SCENE 12 — CANONICAL CLOSING
 
@@ -226,7 +226,7 @@ Anak diajak mengenali dan mulai menyebutkan lima warna melalui benda familiar:
 
 [Rere forms heart with both hands]
 
-> “Belajar... Bermain... Berbagi... Bersama Rere!”
+> “Belajar... Bermain... Berbagi... Bersama Rere dan Cipi!”
 
 > “Sampai jumpa, teman-teman! Dadah!”
 
