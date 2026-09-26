@@ -1,6 +1,6 @@
 # Rere — Prop Bible
 
-**Status:** **Production Standard — v1.1 / Canonical Consistency System**  
+**Status:** **Production Standard — v1.2 / Canonical Consistency System**  
 **Date:** 2026-09-12  
 **Scope:** recurring props, learning objects, story objects, set dressing, thumbnails, image generation, animation, and video production.
 
@@ -110,7 +110,7 @@ Bisa berfungsi tanpa dialog melalui looking, pointing, hugging, sitting beside R
 
 ### Canonical Status
 
-**Pending individual canonical lock.**
+**CANONICAL / LOCKED — see `docs/CANONICAL-ASSET-REGISTRY.md`.**
 
 Desain Bunny pada gambar lain tidak boleh dianggap final hanya karena terlihat mirip. Setelah individual Bunny canonical dibuat dan disetujui, gunakan file tersebut sebagai satu-satunya identity anchor Bunny.
 
