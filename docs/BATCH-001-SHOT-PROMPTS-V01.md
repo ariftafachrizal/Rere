@@ -3,7 +3,7 @@
 **Status:** Production Prompt Source
 **Target:** EP001–EP006
 **Engine:** Gemini downstream generation
-**Source of truth:** Episode Production Master V02 + Script Lock + canonical asset registry/bibles.
+**Source of truth:** Active EP001 Storyboard V03 + Script Lock + canonical asset registry/bibles.
 
 ## How to use
 1. Attach only relevant approved canonical references.
@@ -19,7 +19,7 @@
 > No character redesign, face drift, hairstyle drift, outfit drift, adult proportions, extra fingers, extra limbs, extra eyes, malformed hands, uncanny face, photorealism, scary mood, random props, environment redesign, prop geometry drift, text artifacts, watermark, logo, clutter, excessive bloom, rapid camera movement, overstimulation, impossible object physics, answer leakage during PAUSE.
 
 # EP001 — PETUALANGAN WARNA
-**Master:** `docs/EPISODE-001-STORYBOARD-PRODUCTION-MASTER-V02.md` (reconciled V03 content)
+**Master:** `docs/EPISODE-001-STORYBOARD-PRODUCTION-MASTER-V03.md`
 
 ### S01 — Signature Opening — Rere + Cipi
 **Attach:** canonical Rere + canonical Cipi/Pink Bunny + playroom + regular outfit.
