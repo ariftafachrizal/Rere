@@ -19,12 +19,13 @@
 > No character redesign, face drift, hairstyle drift, outfit drift, adult proportions, extra fingers, extra limbs, extra eyes, malformed hands, uncanny face, photorealism, scary mood, random props, environment redesign, prop geometry drift, text artifacts, watermark, logo, clutter, excessive bloom, rapid camera movement, overstimulation, impossible object physics, answer leakage during PAUSE.
 
 # EP001 — PETUALANGAN WARNA
-**Master:** `docs/EPISODE-001-STORYBOARD-PRODUCTION-MASTER-V02.md`
+**Master:** `docs/EPISODE-001-STORYBOARD-PRODUCTION-MASTER-V02.md` (reconciled V03 content)
 
-### S01 — Signature Opening
-**Attach:** canonical Rere + playroom + regular outfit.
-**Prompt:** Rere faces camera at child height in the canonical playroom, warm smile, gentle wave, brief self-point, then small open-hand invitation. Medium-full framing, soft warm daylight, minimal natural movement. Preserve room geography. No generated text.
-**Accept:** exact identity, stable room, natural wave, child-height camera, correct anatomy.
+### S01 — Signature Opening — Rere + Cipi
+**Attach:** canonical Rere + canonical Cipi/Pink Bunny + playroom + regular outfit.
+**Cipi:** required and clearly visible; use `assets/props/rere-pink-bunny-canonical.png.png`.
+**Prompt:** Rere and canonical Cipi face camera at child height in the canonical playroom. Rere gives a warm smile, gentle wave, brief self-point, then a small open-hand invitation. Cipi gives only a small friendly companion gesture. Medium-full framing, soft warm daylight, minimal natural movement. Preserve room geography. No generated text.
+**Accept:** exact Rere/Cipi identity, stable room, natural wave, child-height camera, correct anatomy.
 
 ### S02 — Drawing Hook
 **Attach:** canonical Rere + playroom + Learning Book + Crayon Kit.
@@ -76,10 +77,12 @@
 **Prompt:** Rere celebrates completing the color mission with warm smile and small achievement gesture. Briefly reinforces the five learned colors visually without new concepts. Calm medium framing.
 **Accept:** warm reward, no overstimulation, no new target.
 
-### S12 — Canonical Closing
-**Attach:** canonical Rere + playroom + approved end-card reference if available.
-**Prompt:** Rere faces camera and performs the exact canonical closing gestures naturally: achievement, thanks, both-hands heart, closing phrase and goodbye wave. Leave clean editorial space for end card. Do not generate text.
-**Accept:** exact closing performance, stable identity, clean end-card-safe composition.
+### S12 — Canonical Closing — Rere + Cipi
+**Attach:** canonical Rere + canonical Cipi/Pink Bunny + playroom.
+**Cipi:** required and clearly visible; use `assets/props/rere-pink-bunny-canonical.png.png`.
+**End card:** editorial only; do not attach/generated typography.
+**Prompt:** Rere and canonical Cipi face camera. Rere performs the exact canonical closing gestures naturally: achievement, thanks, both-hands heart, closing phrase and goodbye wave. Cipi remains a warm secondary companion. Leave clean editorial space for end card. Do not generate text.
+**Accept:** exact Rere + Cipi closing performance, stable identities, clean end-card-safe composition.
 
 # EP002 — PETUALANGAN BENTUK
 **Master:** EP002 Production Master V02 / storyboard.
