@@ -2,7 +2,7 @@
 
 **Status:** ACTIVE — canonical execution-control document  
 **Scope:** EP001–EP120  
-**Last control revision:** 2026-09-14  
+**Last control revision:** 2026-09-26  
 **Purpose:** bridge the GitHub production system and Todoist so that Todoist remains an execution checklist while GitHub remains the source of truth.
 
 ## 1. Operating principle
@@ -218,3 +218,17 @@ Avoid generic names such as `PHASE 17`, `PHASE 18`, `PHASE 19`. The section name
 - **BLOCKED:** a dependency or P0/P1 issue prevents completion.
 
 Never mark a task complete merely because its documentation exists.
+
+
+## 10. Brand Identity Control — Rere dan Cipi
+
+**Canonical public production brand:** Rere dan Cipi
+
+- Main character: Rere
+- Companion: Cipi — Kelinci Pintar
+- Cipi uses the existing canonical Pink Bunny visual asset.
+- Naming the companion Cipi does not authorize a visual redesign.
+- Canonical signature: **BELAJAR • BERMAIN • BERBAGI**
+- Canonical opening/closing wording is governed by `docs/RERE-BRAND-NAME-DECISION-V02.md`.
+- Historical names may remain only inside documents that explicitly describe historical state/decisions.
+- Live channel migration is a separate verification task governed by `docs/RERE-YOUTUBE-BRAND-MIGRATION-V01.md`.
