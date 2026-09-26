@@ -32,7 +32,7 @@ Anak diajak mengenali dan mulai menyebutkan lima warna melalui benda familiar:
 
 **RERE** [warm smile, gentle wave]:
 
-> “Hai teman-teman, aku Rere, main dan belajar bersama Rere, yuk!”
+> “Hai teman-teman! Aku Rere, dan ini Cipi! Yuk main dan belajar bersama kami!”
 
 [SHORT BEAT]
 
@@ -222,7 +222,7 @@ Anak diajak mengenali dan mulai menyebutkan lima warna melalui benda familiar:
 
 > “Hebat sekali hari ini!”
 
-> “Terima kasih sudah belajar bersama Rere!”
+> “Terima kasih sudah belajar bersama Rere dan Cipi!”
 
 [Rere forms heart with both hands]
 
@@ -233,7 +233,7 @@ Anak diajak mengenali dan mulai menyebutkan lima warna melalui benda familiar:
 **END CARD:**
 
 > **BELAJAR • BERMAIN • BERBAGI**  
-> **BERSAMA RERE!**
+> **BERSAMA RERE DAN CIPI!**
 
 ## 4. PAUSE MAP
 
