@@ -28,20 +28,20 @@ Use these when applicable; do not regenerate them independently:
 - `assets/character/rere-character-sheet-canonical.png`
 - `assets/character/rere-expression-sheet-canonical.png`
 - `assets/character/rere-turnaround-sheet-canonical.png`
-- `assets/props/signature/rere-pink-bunny-canonical.png`
-- `assets/props/signature/rere-backpack-canonical.png`
-- `assets/props/signature/rere-learning-book-canonical.png`
-- `assets/props/signature/rere-pink-heart-motif-canonical.png`
-- `assets/props/utility/rere-crayon-kit-canonical.png`
-- `assets/props/utility/rere-water-bottle-canonical.png`
-- `assets/props/utility/rere-pencil-case-canonical.png`
-- `assets/props/utility/rere-learning-box-canonical.png`
-- `assets/props/utility/rere-activity-apron-canonical.png`
-- `assets/environment/rere-world-playroom-canonical.png`
-- `assets/environment/rere-world-bedroom-canonical.png`
-- `assets/environment/rere-world-kitchen-canonical.png`
-- `assets/environment/rere-world-garden-canonical.png`
-- `assets/environment/rere-world-classroom-canonical.png`
+- `assets/props/rere-pink-bunny-canonical.png.png`
+- `assets/props/rere-backpack-canonical.png`
+- `assets/props/rere-learning-book-canonical.png`
+- `assets/props/rere-pink-heart-motif-canonical.png`
+- `assets/props/rere-crayon-kit-canonical.png`
+- `assets/props/rere-water-bottle-canonical.png`
+- `assets/props/rere-pencil-case-canonical.png`
+- `assets/props/rere-learning-box-canonical.png`
+- `assets/props/rere-activity-apron-canonical.png`
+- `assets/props/rere-world-playroom-canonical.png`
+- `assets/props/rere-world-bedroom-canonical.png`
+- `assets/props/rere-world-kitchen-canonical.png`
+- `assets/props/rere-world-garden-canonical.png`
+- `assets/props/rere-world-classroom-canonical.png`
 
 Learning libraries already approved:
 
