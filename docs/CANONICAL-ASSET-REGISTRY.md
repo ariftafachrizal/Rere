@@ -1,6 +1,6 @@
 # Rere — Canonical Asset Registry
 
-**Status:** Production Standard — v1.1  
+**Status:** Production Standard — v1.2  
 **Date:** 2026-09-12  
 **Purpose:** single source-of-truth registry for character, prop, world, and scene assets.
 
@@ -87,20 +87,20 @@ Prop IDs are separate identity assets. A prop appearing in a character sheet doe
 
 | Prop ID | Asset | Status |
 |---|---|---|
-| `RERE-PROP-PINK-BUNNY-01` | `assets/props/signature/rere-pink-bunny-canonical.png` | **CANONICAL / LOCKED** |
-| `RERE-PROP-BACKPACK-01` | `assets/props/signature/rere-backpack-canonical.png` | **CANONICAL / LOCKED** |
-| `RERE-PROP-BOOK-01` | `assets/props/signature/rere-learning-book-canonical.png` | **CANONICAL / LOCKED** |
-| `RERE-PROP-HEART-01` | `assets/props/signature/rere-pink-heart-motif-canonical.png` | **CANONICAL / LOCKED** |
+| `RERE-PROP-PINK-BUNNY-01` | `assets/props/rere-pink-bunny-canonical.png.png` | **CANONICAL / LOCKED** |
+| `RERE-PROP-BACKPACK-01` | `assets/props/rere-backpack-canonical.png` | **CANONICAL / LOCKED** |
+| `RERE-PROP-BOOK-01` | `assets/props/rere-learning-book-canonical.png` | **CANONICAL / LOCKED** |
+| `RERE-PROP-HEART-01` | `assets/props/rere-pink-heart-motif-canonical.png` | **CANONICAL / LOCKED** |
 
 ### Tier B — Character Utility
 
 | Prop ID | Asset | Status |
 |---|---|---|
-| `RERE-PROP-CRAYON-KIT-01` | `assets/props/utility/rere-crayon-kit-canonical.png` | **CANONICAL / LOCKED** |
-| `RERE-PROP-WATER-BOTTLE-01` | `assets/props/utility/rere-water-bottle-canonical.png` | **CANONICAL / LOCKED** |
-| `RERE-PROP-PENCIL-CASE-01` | `assets/props/utility/rere-pencil-case-canonical.png` | **CANONICAL / LOCKED** |
-| `RERE-PROP-LEARNING-BOX-01` | `assets/props/utility/rere-learning-box-canonical.png` | **CANONICAL / LOCKED** |
-| `RERE-PROP-ACTIVITY-APRON-01` | `assets/props/utility/rere-activity-apron-canonical.png` | **CANONICAL / LOCKED** |
+| `RERE-PROP-CRAYON-KIT-01` | `assets/props/rere-crayon-kit-canonical.png` | **CANONICAL / LOCKED** |
+| `RERE-PROP-WATER-BOTTLE-01` | `assets/props/rere-water-bottle-canonical.png` | **CANONICAL / LOCKED** |
+| `RERE-PROP-PENCIL-CASE-01` | `assets/props/rere-pencil-case-canonical.png` | **CANONICAL / LOCKED** |
+| `RERE-PROP-LEARNING-BOX-01` | `assets/props/rere-learning-box-canonical.png` | **CANONICAL / LOCKED** |
+| `RERE-PROP-ACTIVITY-APRON-01` | `assets/props/rere-activity-apron-canonical.png` | **CANONICAL / LOCKED** |
 
 ### Learning Libraries
 
@@ -132,9 +132,9 @@ Once an individual asset is locked, future master sheets and scenes must derive 
 
 Current intended master-sheet location:
 
-`assets/props/master/rere-prop-master-sheet-canonical.png`
+`assets/props/rere-prop-master-sheet-canonical.png`
 
-The binary must physically exist at that exact repository path before it is treated as repository-hosted canonical. If the current binary is still under `assets/props/`, move it without changing its content/name.
+The canonical master sheet is currently repository-hosted at `assets/props/rere-prop-master-sheet-canonical.png`. The repository uses a flat props directory, so this path is the current source-of-truth location.
 
 The master sheet must be regenerated/revised if a Tier A prop is later canonically changed so that the visual overview matches the individual canonical assets.
 
