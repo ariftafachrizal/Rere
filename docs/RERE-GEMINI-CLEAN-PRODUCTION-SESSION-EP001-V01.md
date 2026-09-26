@@ -25,7 +25,7 @@ When instructions conflict, follow this order:
 2. **EP001 clean asset & Gemini reference map**
    - `docs/RERE-EP001-CLEAN-ASSET-GEMINI-REFERENCE-MAP-V01.md`
 3. **EP001 storyboard production master**
-   - `docs/EPISODE-001-STORYBOARD-PRODUCTION-MASTER-V02.md`
+   - `docs/EPISODE-001-STORYBOARD-PRODUCTION-MASTER-V03.md`
 4. **EP001 script lock**
    - `docs/EPISODE-001-SCRIPT-LOCK-V01.md`
 5. **Batch QA system**
