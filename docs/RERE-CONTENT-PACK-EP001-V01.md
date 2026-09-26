@@ -38,7 +38,7 @@ Opening: `Hai teman-teman, aku Rere, main dan belajar bersama Rere, yuk!`
 Closing:
 `Hebat sekali hari ini!`
 `Terima kasih sudah belajar bersama Rere!`
-`Belajar... Bermain... Berbagi... Bersama Rere!`
+`Belajar... Bermain... Berbagi... Bersama Rere dan Cipi!`
 `Sampai jumpa, teman-teman! Dadah!`
 
 ### Completion gate
