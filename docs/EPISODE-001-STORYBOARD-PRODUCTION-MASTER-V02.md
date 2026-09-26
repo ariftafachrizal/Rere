@@ -1128,4 +1128,4 @@ Gemini is the renderer.
 
 Human review is the final authority.
 
-**STORYBOARD V02 = MASTER VISUAL BLUEPRINT FOR EP001.**
+**STORYBOARD V03 = MASTER VISUAL BLUEPRINT FOR EP001.**
