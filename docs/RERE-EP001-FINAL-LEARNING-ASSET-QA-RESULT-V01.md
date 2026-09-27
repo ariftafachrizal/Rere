@@ -3,7 +3,7 @@
 **Episode:** RERE-EP-001 — Petualangan Warna  
 **Review:** Human QA  
 **Date:** 2026-09-27  
-**Status:** QA PASS — PROMOTION PENDING
+**Status:** LOCKED — LEARNING ASSET GATE PASSED
 
 ## Final QA Result
 
@@ -33,15 +33,15 @@ No answer leakage, labels, highlighting, checkmarks, pointers, or other answer c
 
 The visual QA gate is **PASS**.
 
-However, downstream production remains **LOCKED** until the six approved PNG files are physically promoted into the repository at:
+The six approved PNG files have now been verified in the repository at:
 
 `assets/learning/`
 
-The repository must contain the exact versioned filenames listed above before the learning-asset Definition of Done is considered complete.
+The exact versioned filenames are present and match the required EP001 learning-asset outputs.
 
-## Required Promotion
+## Verified Repository Promotion
 
-Upload exactly these six files:
+Verified exactly these six files:
 
 `assets/learning/RERE-EP001-ASSET-RED-APPLE-V01.png`  
 `assets/learning/RERE-EP001-ASSET-YELLOW-BANANA-V01.png`  
@@ -52,8 +52,10 @@ Upload exactly these six files:
 
 Do not rename versions, overwrite rejected candidates, or place these files under `assets/props/`.
 
-## Unlock Condition
+## Unlock Decision
 
-After all six files are verified in `assets/learning/`, the EP001 learning-asset gate may be marked **LOCKED**, and S01–S12 scene production may proceed.
+All six required PNG files are verified in `assets/learning/`. The EP001 learning-asset Definition of Done is complete.
 
-**Scene generation is not unlocked by visual QA alone; repository promotion and verification are the final prerequisite.**
+**EP001 learning-asset gate: LOCKED / PASSED.**
+
+**S01–S12 scene production: UNLOCKED.**
