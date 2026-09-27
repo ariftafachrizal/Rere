@@ -69,12 +69,12 @@ Target learning colors: **merah, kuning, biru, hijau, pink**.
 
 | Asset ID | Asset | Purpose | Status | Proposed output |
 |---|---|---|---|---|
-| `RERE-LEARN-EP001-APPLE-01` | Red Apple | Red recognition | BUILD | `RERE-EP001-ASSET-RED-APPLE-V01.png` |
-| `RERE-LEARN-EP001-BANANA-01` | Yellow Banana | Yellow recognition | BUILD | `RERE-EP001-ASSET-YELLOW-BANANA-V01.png` |
-| `RERE-LEARN-EP001-BALL-01` | Blue Ball | Blue recognition | BUILD | `RERE-EP001-ASSET-BLUE-BALL-V01.png` |
-| `RERE-LEARN-EP001-PLANT-01` | Green Plant/Leaf | Green recognition | BUILD | `RERE-EP001-ASSET-GREEN-PLANT-V01.png` |
-| `RERE-LEARN-EP001-FLOWER-01` | Pink Flower | Pink recognition | BUILD | `RERE-EP001-ASSET-PINK-FLOWER-V01.png` |
-| `RERE-LEARN-EP001-QUIZ-SET-01` | Quiz object set | Final five-color review | BUILD | `RERE-EP001-ASSET-QUIZ-SET-V01.png` |
+| `RERE-LEARN-EP001-APPLE-01` | Red Apple | Red recognition | LOCKED | `RERE-EP001-ASSET-RED-APPLE-V01.png` |
+| `RERE-LEARN-EP001-BANANA-01` | Yellow Banana | Yellow recognition | LOCKED | `RERE-EP001-ASSET-YELLOW-BANANA-V01.png` |
+| `RERE-LEARN-EP001-BALL-01` | Blue Ball | Blue recognition | LOCKED | `RERE-EP001-ASSET-BLUE-BALL-V01.png` |
+| `RERE-LEARN-EP001-PLANT-01` | Green Plant/Leaf | Green recognition | LOCKED | `RERE-EP001-ASSET-GREEN-PLANT-V01.png` |
+| `RERE-LEARN-EP001-FLOWER-01` | Pink Flower | Pink recognition | LOCKED | `RERE-EP001-ASSET-PINK-FLOWER-V01.png` |
+| `RERE-LEARN-EP001-QUIZ-SET-01` | Quiz object set | Final five-color review | LOCKED | `RERE-EP001-ASSET-QUIZ-SET-V01.png` |
 
 ### EP001 asset rules
 
